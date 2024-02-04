@@ -1,13 +1,7 @@
-# Empire of Ghouls
-
-## PCs
-
-### Fin Wolfclaw (Ryan)
-
-- Winterfolk halfling. Scowls a lot. Windblown hair. Generally wears winter clothes. Deeeep voice.
-- Uses a saw as a weapon.
-
-### Carrion (Tyler)
+---
+layout: layout.webc
+title: Empire of Ghouls
+---
 
 - Shoulder length black hair, chainmail. Dressed in earthish reds and yellows. Moves with conviction (maybe a little uptight). Calloused hands.
 - Priest of funeral rites

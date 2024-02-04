@@ -1,6 +1,8 @@
 import markdownItReplaceLinks from "markdown-it-replace-link";
 
 export default function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("styles.css");
+
   // Convert obsidian links to html links.
   eleventyConfig.amendLibrary("md", (mdLib) => {
     mdLib.use(markdownItReplaceLinks, {

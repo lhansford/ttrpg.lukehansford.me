@@ -1,5 +1,0 @@
----
-player: Bryan
----
-
-- Guest PC
