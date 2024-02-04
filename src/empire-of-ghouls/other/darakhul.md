@@ -1,0 +1,6 @@
+---
+aliases:
+  - darakhul
+  - Darakhul
+---
+# Darakhul

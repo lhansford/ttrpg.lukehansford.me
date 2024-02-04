@@ -1,0 +1,5 @@
+---
+player: Ben
+aliases:
+  - Jimmy
+---

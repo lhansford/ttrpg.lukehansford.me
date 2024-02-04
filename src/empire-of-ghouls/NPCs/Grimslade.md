@@ -1,0 +1,1 @@
+Darakghul. Leader at [[Orzelbirg]]. Hired directly by [[Lucan]]

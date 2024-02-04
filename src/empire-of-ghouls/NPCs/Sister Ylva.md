@@ -1,0 +1,3 @@
+- Leader of [[The Sisters of Hope]]
+- Holder of [[The Robes of Sister Adeline]]
+- She was killed in [[Orzelbirg]]
