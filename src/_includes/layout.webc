@@ -1,0 +1,11 @@
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" :href="url('/styles.css')" webc:keep />
+</head>
+
+<body>
+  <main @raw="content"></main>
+</body>
+
+</html>

@@ -5,3 +5,4 @@ layout: layout.webc
 title: The Oracle
 ---
 
+# The Oracle

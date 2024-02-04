@@ -6,6 +6,29 @@ layout: layout.webc
 title: Backstory
 ---
 
+
+tl;dr: She worked in an arcane library in Krakovar and was killed during the invasion. Now she's a shade.
+
+![[_files/mara.png]]
+![[_files/mara (shade).png]]
+
+## Backstory
+
+Mara was an Elfmarked born and raised in Krakovar. She apprenticed and worked at the arcane library in the city and was settled in for a life of books and scrolls until the invasion. During the chaos she was slain, but hours later she awoke again as a Shade. Under the cover of night she snuck out of Krakovar and made her way south to Zobeck.
+
+## Personality
+
+Mara was a shy and cloistered person before her death. In her second life she realises that she had missed out on a great deal of living and has vowed to experience what she had only previously read about.
+
+She's also burying the trauma of her and her colleagues being killed. This manifests in a dual perception of herself: her old introverted librarian self when she feels safe, and a grim and menacing necromancer when danger approaches. She is struggling to reconcile these two side of her personality.
+
+### Traits
+
+- The path to knowledge is not solely traversed through books and study. To fully learn, you must experience!
+- I am an observer and chronicler of the journeys, experiences, trials, and tribulations of my companions as viewed from the outside looking in.
+
+### Ideals
+
 - Purity. The truth of a matter is subject to the whims of the historian. Facts are pure and incontrovertible.
 
 ### Bonds

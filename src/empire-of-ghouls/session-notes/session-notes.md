@@ -2,6 +2,20 @@
 layout: layout.webc
 title: Session notes
 ---
+# Session notes
+
+## Session 1
+
+- Meeting at the Rampant Roach at the call of a kobold named Skirtle (in Zobeck).
+- Skirtle asked us to help escort Brick.
+- Roslin, the blacksmith Heston's wife, was kidnapped. People think it was Brick.
+- We went to visit Heston to ask questions. He was annoyed. Doesn't know we're working with Brick.
+
+## Session 2
+
+- Found a letter on the dead person (Grantham) in the spice shop.
+
+## Session 3
 
 - Kwarell asked us to clear Brick's name on behalf of Koto Kragclaw.
 - Kwarell saw a suspicious person enter the catacombs the night Roslin was taken.

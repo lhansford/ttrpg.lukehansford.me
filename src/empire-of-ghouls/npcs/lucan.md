@@ -7,3 +7,4 @@ layout: layout.webc
 title: ''
 ---
 
+- King Lucan (once Prince Lucan).

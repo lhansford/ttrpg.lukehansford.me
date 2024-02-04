@@ -3,13 +3,13 @@ import { join } from "path";
 
 import matter from "gray-matter";
 
-const CAMPAIGNS = ["empire-of-ghouls"];
+const CAMPAIGNS = ["empire-of-ghouls", "spelljammer-bebop"];
 
 function extractTitle(markdown) {
   const [, ...tail] = markdown.split("# ");
-  const [title, ...content] = tail.join("# ").split("\n");
+  const [title] = tail.join("# ").split("\n");
 
-  return { title, content: content.join("\n") };
+  return { title, content: markdown };
 }
 
 function getAllMarkdownFiles(dir) {
