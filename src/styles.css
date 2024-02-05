@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+/* Reset adopted from https://piccalil.li/blog/a-more-modern-css-reset/ */
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Prevent font size inflation */
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+/* Remove default margin in favour of better control in authored CSS */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure,
+blockquote,
+dl,
+dd {
+  margin-block: 0;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* Set shorter line heights on headings and interactive elements */
+h1,
+h2,
+h3,
+h4,
+button,
+input,
+label {
+  line-height: 1.1;
+}
+
+/* Balance text wrapping on headings */
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+/* A elements that don't have a class get default styles */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: currentColor;
+}
+
+/* Make images easier to work with */
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: 5ex;
+}
+
+/* My styles */
+
+:root {
+  --c-light-shade: #f7f4f5;
+  --c-light-accent: #777984;
+  --c-brand: #C79877;
+  --c-dark-accent: #ae5741;
+  --c-dark-shade: #423e44;
+}
+
+html {
+  font-size: 16px;
+}
+
+/* From https://css-pattern.com/ */
+html {
+  --s: 128px; /* control the size */
+  --c1: var(--c-dark-accent);
+  --c2: var(--c-dark-shade);
+
+  --_g:radial-gradient(#0000 60%,var(--c1) 61% 63%,#0000 64% 77%,var(--c1) 78% 80%,#0000 81%);
+  --_c:,#0000 75%,var(--c2) 0;
+  background:
+    conic-gradient(at 12% 20% var(--_c)) calc(var(--s)* .44) calc(.9*var(--s)),
+    conic-gradient(at 12% 20% var(--_c)) calc(var(--s)*-.06) calc(.4*var(--s)),
+    conic-gradient(at 20% 12% var(--_c)) calc(.9*var(--s)) calc(var(--s)* .44),
+    conic-gradient(at 20% 12% var(--_c)) calc(.4*var(--s)) calc(var(--s)*-.06),
+    var(--_g),var(--_g) calc(var(--s)/2) calc(var(--s)/2) var(--c2);
+  background-size: var(--s) var(--s);
+}
+
+
+body {
+  margin: 0 auto;
+  font-family: "Playfair Display", Palatino, "Palatino Linotype",
+    "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: var(--c-light-shade);
+  color: var(--c-dark-shade);
+  max-width: 1400px;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+}
+
+main {
+  padding: 2rem;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Grenze Gotisch", serif;
+  margin-block-end: 1rem;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-block-end: 2rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+p, details {
+  margin-block-end: 1rem;
+}
+
+ul {
+  padding: 0;
+  list-style-position: inside;
+  margin-block-start: 0.5rem;
+}
+
+li {
+  margin-block-end: 0.5rem;
+}
+
+ul ul {
+  padding-inline-start: 1rem;
+}
+
+a {
+  font-weight: 600;
+}
+
+a:hover {
+  transition: color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--c-dark-accent);
+}

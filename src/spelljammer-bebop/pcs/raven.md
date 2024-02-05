@@ -9,11 +9,15 @@ title: Raven
 
 ![[_files/portrait.png|300]]![[_files/full-body-token.png|300]]
 ## Backstory
-
-- Raven was originally a fey spirit. At some point she was bound by a wizard as their familiar. The wizard was cruel and evil, and she did his bidding as a familiar for a very long time.
-- During her time in captivity she learnt about the teachings of Ilmater. She broke her bond with her master, replacing it with a pledge of service to Ilmater. Part of the bargain was providing me with a new form to more easily hide from my past.
-- Transformed into a young teenager, Raven fled to Bral. She found refuge at the Temple of Ilmater, and ended up becoming an acolyte there. While she was trained as a cleric initially, her skills led her to a different role as a Blade of Ilmater, using her roguish skills to protect the suffering and oppressed.
-- She has been on Bral for about a decade. Around 5 years ago she met Swan, and they became fast friends. In more recent years she has worked some jobs with Swan and Kez.
+<details>
+  <summary>SPOILERS!</summary>
+  <ul>
+	  <li>Raven was originally a fey spirit. At some point she was bound by a wizard as their familiar. The wizard was cruel and evil, and she did his bidding as a familiar for a very long time.</li>
+	<li>During her time in captivity she learnt about the teachings of Ilmater. She broke her bond with her master, replacing it with a pledge of service to Ilmater. Part of the bargain was providing me with a new form to more easily hide from my past.</li>
+	<li>Transformed into a young teenager, Raven fled to Bral. She found refuge at the Temple of Ilmater, and ended up becoming an acolyte there. While she was trained as a cleric initially, her skills led her to a different role as a Blade of Ilmater, using her roguish skills to protect the suffering and oppressed.</li>
+	<li>She has been on Bral for about a decade. Around 5 years ago she met Swan, and they became fast friends. In more recent years she has worked some jobs with Swan and Kez.</li>
+	</ul>
+</details>
 
 ## Personality
 
