@@ -8,4 +8,4 @@ title: The Unknown Guild
 
 ## Members
 
-- [the-unknown-one](npcs/the-unknown-one.md)
+- [The Unknown One](npcs/the-unknown-one.md)

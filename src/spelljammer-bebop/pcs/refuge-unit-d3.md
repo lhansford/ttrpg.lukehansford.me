@@ -8,4 +8,4 @@ layout: layout.webc
 title: Refuge Unit D3
 ---
 # Refuge Unit D3
-- Looking for [[npcs/myla]]
+- Looking for [Myla](npcs/myla.md)

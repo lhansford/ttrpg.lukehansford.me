@@ -1,13 +1,13 @@
 ---
 player: Luke
-aliases:
-  - Raven
+aliases: []
 layout: layout.webc
 title: Raven
 ---
 # Raven
 
-![[_files/portrait.png|300]]![[_files/full-body-token.png|300]]
+![Raven|300](_files/portrait.png)![Raven|300](_files/full-body-token.png)
+
 ## Backstory
 <details>
   <summary>SPOILERS!</summary>
@@ -41,9 +41,7 @@ That violence can end suffering.
 
 ### Flaws
 
-- I prefer to sleep in the same fashion that I rested when I was a familiar.
 - Transmutation magic of all kinds frightens me to the core. I will not willingly use it or have it used on me.
-- I'm scared of the dark as it reminds be of the void where my master would keep me when I wasn't doing his bidding.
 - I do like shiny things, and will happily take something valuable from someone I deem doesn't need it, though I try to leave something else in return.
 - She's a bit of a show-off (like a bird) and will sometimes be a bit extra when its unneeded.
 - Strong distrust of domesticated animals (cats, cows, horses).
@@ -76,7 +74,7 @@ That violence can end suffering.
 - [One of my most common requests, and of course just one example, but ho... | TikTok](https://www.tiktok.com/@howtodovoices/video/7261310330838502683)
 ### Phrases and quirks
 
-- Uses "they" for everyone, unless they specifically know a pronoun.
+- ?
 ### Prayers
 
 - "Forgive me Ilmater for the suffering I'm about to cause."
