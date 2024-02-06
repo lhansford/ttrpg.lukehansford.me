@@ -2,6 +2,10 @@
 locations: '[[locations/orzelbirg]]'
 layout: layout.webc
 title: Session 28 (2024-01-28)
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - session-notes
 ---
 # Session 28 (2024-01-28)
 

@@ -6,6 +6,10 @@ in:
   - '[[locations/toril|Toril]]'
 layout: layout.webc
 title: Faerûn
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Faerûn
 

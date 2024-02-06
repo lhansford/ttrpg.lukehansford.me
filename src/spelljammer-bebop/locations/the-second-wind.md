@@ -1,6 +1,10 @@
 ---
 layout: layout.webc
 title: The Second Wind
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # The Second Wind
 

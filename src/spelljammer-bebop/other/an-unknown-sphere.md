@@ -3,6 +3,10 @@ aliases:
   - An Unknown Sphere
 layout: layout.webc
 title: An Unknown Sphere
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - other
 ---
 
 # An Unknown Sphere

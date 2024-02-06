@@ -5,6 +5,10 @@ in:
   - '[[locations/realmspace|Realmspace]]'
 layout: layout.webc
 title: Mingabwe
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Mingabwe
 

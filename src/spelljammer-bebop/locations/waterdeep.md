@@ -5,6 +5,10 @@ in:
   - '[[locations/faerun|Faerun]]'
 layout: layout.webc
 title: Waterdeep
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Waterdeep
 

@@ -3,6 +3,10 @@ aliases:
   - Crabpie
 layout: layout.webc
 title: Crabpie
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - npcs
 ---
 # Crabpie
 

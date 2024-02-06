@@ -5,6 +5,10 @@ location: null
 origin: null
 layout: layout.webc
 title: Anna
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - npcs
 ---
 # Anna
 

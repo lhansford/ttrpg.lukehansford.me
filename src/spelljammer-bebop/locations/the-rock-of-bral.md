@@ -7,6 +7,10 @@ in:
   - '[[locations/realmspace|Realmspace]]'
 layout: layout.webc
 title: The Rock of Bral
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # The Rock of Bral
 

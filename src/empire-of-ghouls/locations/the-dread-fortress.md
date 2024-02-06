@@ -3,6 +3,10 @@ aliases:
   - The Dread Fortress
 layout: layout.webc
 title: ''
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - locations
 ---
 
 - In [Orzelbirg](locations/orzelbirg.md)

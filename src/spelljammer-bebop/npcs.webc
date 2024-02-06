@@ -1,0 +1,11 @@
+---
+layout: layout.webc
+campaignTitle: "Spelljammer Bebop"
+campaignSlug: "spelljammer-bebop"
+---
+<h1>NPCs</h1>
+<ul>
+  <li webc:for="post of collections.npcs.filter(p => p.data.campaignSlug === campaignSlug)">
+    <a :href="post.url" @text="post.data.title || '?'"></a>
+  </li>
+</ul>

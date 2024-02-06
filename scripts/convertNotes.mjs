@@ -36,7 +36,7 @@ function getAllMarkdownFiles(dir) {
 
 function convertMarkdown() {
   for (const campaign of CAMPAIGNS) {
-    const dir = `./src/${campaign}/`;
+    const dir = `./src/${campaign.slug}/`;
     const files = getAllMarkdownFiles(dir);
 
     for (const file of files) {
@@ -52,6 +52,9 @@ function convertMarkdown() {
 
       markdown.data["layout"] = "layout.webc";
       markdown.data["title"] = title;
+      markdown.data["campaignSlug"] = campaign.slug;
+      markdown.data["campaignTitle"] = campaign.title;
+      markdown.data["tags"] = file.split(`${campaign.slug}/`)[1].split("/").slice(0, -1);
       markdown.content = content;
 
       writeFileSync(file, matter.stringify(markdown));

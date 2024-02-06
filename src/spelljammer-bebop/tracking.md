@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: Tracking
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags: []
 ---
 # Tracking
 ## Todo

@@ -3,6 +3,10 @@ aliases: null
 in: null
 layout: layout.webc
 title: Location
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - _templates
 ---
 # Location
 

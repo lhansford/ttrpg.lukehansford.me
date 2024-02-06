@@ -5,6 +5,10 @@ in:
   - '[[locations/faerun|Faerun]]'
 layout: layout.webc
 title: Two Stars
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Two Stars
 

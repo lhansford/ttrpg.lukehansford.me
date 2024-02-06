@@ -5,6 +5,10 @@ location: '[[locations/mulsantir|Mulsantir]]'
 origin: null
 layout: layout.webc
 title: Borgol Kirdis
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - npcs
 ---
 # Borgol Kirdis
 

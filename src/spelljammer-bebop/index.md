@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: Spelljammer Bebop
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags: []
 ---
 # Spelljammer Bebop
 

@@ -5,6 +5,10 @@ aliases:
   - Swan
 layout: layout.webc
 title: Swan
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - pcs
 ---
 # Swan
 - Best friend of [Raven](pcs/raven.md)

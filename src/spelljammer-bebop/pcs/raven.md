@@ -3,6 +3,10 @@ player: Luke
 aliases: []
 layout: layout.webc
 title: Raven
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - pcs
 ---
 # Raven
 

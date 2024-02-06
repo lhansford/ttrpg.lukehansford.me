@@ -5,6 +5,10 @@ locations:
 date: 2024-02-04T00:00:00.000Z
 layout: layout.webc
 title: Session 14 (2024-02-04)
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - session-notes
 ---
 # Session 14 (2024-02-04)
 

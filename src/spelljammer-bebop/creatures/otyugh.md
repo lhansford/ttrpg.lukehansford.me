@@ -1,6 +1,10 @@
 ---
 layout: layout.webc
 title: Otyugh
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - creatures
 ---
 # Otyugh
 

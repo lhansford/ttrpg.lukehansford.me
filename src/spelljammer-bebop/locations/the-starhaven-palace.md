@@ -5,6 +5,10 @@ in:
   - '[[locations/the-rock-of-bral|The Rock of Bral]]'
 layout: layout.webc
 title: The Starhaven Palace
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # The Starhaven Palace
 

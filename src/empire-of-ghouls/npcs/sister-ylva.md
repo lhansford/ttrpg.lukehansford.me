@@ -3,6 +3,10 @@ aliases:
   - Sister Ylva
 layout: layout.webc
 title: Sister Ylva
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - npcs
 ---
 # Sister Ylva
 

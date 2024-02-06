@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: Crafting Rules
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags: []
 ---
 # Crafting Rules
 

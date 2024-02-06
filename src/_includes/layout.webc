@@ -10,6 +10,17 @@
 </head>
 
 <body>
+  <header>
+    <span @text="campaignTitle"></span>
+    <nav>
+      <a :href="`/${campaignSlug}/session-notes`">Session notes</a>
+      <a :href="`/${campaignSlug}/pcs`">PCs</a>
+      <a :href="`/${campaignSlug}/npcs`">NPCs</a>
+      <a :href="`/${campaignSlug}/locations`">Locations</a>
+      <a :href="`/${campaignSlug}/creatures`">Creatures</a>
+      <a :href="`/${campaignSlug}/other`">Other</a>
+    </nav>
+  </header>
   <main @raw="content"></main>
 </body>
 

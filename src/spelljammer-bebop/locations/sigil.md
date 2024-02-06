@@ -4,6 +4,10 @@ aliases:
 in: null
 layout: layout.webc
 title: Sigil
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Sigil
 

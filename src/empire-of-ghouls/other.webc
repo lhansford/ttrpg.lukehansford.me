@@ -1,0 +1,11 @@
+---
+layout: layout.webc
+campaignTitle: "Empire of Ghouls"
+campaignSlug: "empire-of-ghouls"
+---
+<h1>Other</h1>
+<ul>
+  <li webc:for="post of collections.other.filter(p => p.data.campaignSlug === campaignSlug)">
+    <a :href="post.url" @text="post.data.title || '?'"></a>
+  </li>
+</ul>

@@ -3,6 +3,10 @@ aliases:
   - Orzelbirg
 layout: layout.webc
 title: Locations
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - locations
 ---
 
 ## Locations

@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: 'House rules '
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags: []
 ---
 # House rules 
 

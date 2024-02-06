@@ -6,6 +6,10 @@ aliases:
   - Ravarel Deshent
 layout: layout.webc
 title: Ravarel Deshent
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - pcs
 ---
 # Ravarel Deshent
 - [Raven](pcs/raven.md) calls him "Ravvy".

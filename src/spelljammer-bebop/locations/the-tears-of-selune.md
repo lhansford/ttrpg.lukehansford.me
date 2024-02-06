@@ -4,6 +4,10 @@ aliases:
 in: null
 layout: layout.webc
 title: The Tears of Selune
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # The Tears of Selune
 

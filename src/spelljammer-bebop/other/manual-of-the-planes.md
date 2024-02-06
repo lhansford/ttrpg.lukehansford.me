@@ -3,6 +3,10 @@ aliases:
   - Manual of the Planes
 layout: layout.webc
 title: Manual of the Planes
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - other
 ---
 # Manual of the Planes
 

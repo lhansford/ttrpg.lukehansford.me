@@ -5,6 +5,10 @@ in:
   - '[[locations/the-tears-of-selune|The Tears of Selune]]'
 layout: layout.webc
 title: Stardock
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Stardock
 

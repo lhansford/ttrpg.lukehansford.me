@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: Empire of Ghouls
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags: []
 ---
 # Empire of Ghouls
 

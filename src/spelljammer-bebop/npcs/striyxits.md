@@ -5,6 +5,10 @@ location: null
 origin: null
 layout: layout.webc
 title: Striyxits
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - npcs
 ---
 # Striyxits
 

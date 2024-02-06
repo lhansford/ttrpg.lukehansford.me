@@ -5,6 +5,10 @@ in:
   - '[[locations/realmspace|Realmspace]]'
 layout: layout.webc
 title: Haven
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Haven
 

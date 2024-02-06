@@ -4,6 +4,10 @@ aliases:
 in: null
 layout: layout.webc
 title: Realmspace
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Realmspace
 

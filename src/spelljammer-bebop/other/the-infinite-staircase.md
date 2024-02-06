@@ -3,6 +3,10 @@ aliases:
   - The Infinite Staircase
 layout: layout.webc
 title: The Infinite Staircase
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - other
 ---
 # The Infinite Staircase
 

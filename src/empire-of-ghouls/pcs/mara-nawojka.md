@@ -4,6 +4,10 @@ aliases:
   - Mara
 layout: layout.webc
 title: Backstory
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - pcs
 ---
 
 

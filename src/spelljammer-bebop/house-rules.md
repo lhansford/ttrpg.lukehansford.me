@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: House rules
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags: []
 ---
 # House rules
 

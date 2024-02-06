@@ -1,6 +1,9 @@
 ---
 layout: layout.webc
 title: Tracking
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags: []
 ---
 # Tracking
 ## Todo

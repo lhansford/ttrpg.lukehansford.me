@@ -5,6 +5,10 @@ aliases:
   - The Laughing Beholder
 layout: layout.webc
 title: The Laughing Beholder
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # The Laughing Beholder
 

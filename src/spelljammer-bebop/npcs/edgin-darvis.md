@@ -5,6 +5,10 @@ location: '[[locations/two-stars|Two Stars]]'
 origin: null
 layout: layout.webc
 title: Edgin Darvis
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - npcs
 ---
 # Edgin Darvis
 

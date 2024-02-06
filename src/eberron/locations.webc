@@ -1,0 +1,11 @@
+---
+layout: layout.webc
+campaignTitle: "Eberron"
+campaignSlug: "eberron"
+---
+<h1>Locations</h1>
+<ul>
+  <li webc:for="post of collections.locations.filter(p => p.data.campaignSlug === campaignSlug)">
+    <a :href="post.url" @text="post.data.title || '?'"></a>
+  </li>
+</ul>

@@ -5,6 +5,10 @@ aliases:
 origin: null
 layout: layout.webc
 title: Double Dux
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - npcs
 ---
 # Double Dux
 

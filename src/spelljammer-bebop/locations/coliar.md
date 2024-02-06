@@ -5,6 +5,10 @@ in:
   - '[[locations/realmspace|realmspace]]'
 layout: layout.webc
 title: Coliar
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
+tags:
+  - locations
 ---
 # Coliar
 

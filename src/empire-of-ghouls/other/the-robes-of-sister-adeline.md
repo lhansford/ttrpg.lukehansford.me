@@ -3,6 +3,10 @@ aliases:
   - The Robes of Sister Adeline
 layout: layout.webc
 title: The Robes of Sister Adeline
+campaignSlug: empire-of-ghouls
+campaignTitle: Empire of Ghouls
+tags:
+  - other
 ---
 
 # The Robes of Sister Adeline
