@@ -80,13 +80,7 @@ a:not([class]) {
 }
 
 html {
-  font-size: 24px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+  font-size: 16px;
 }
 
 /* From https://css-pattern.com/ */
@@ -118,6 +112,8 @@ body {
 
 main {
   padding: 2rem;
+  margin-inline: auto;
+  max-width: 80ch;
 }
 
 h1,
@@ -169,7 +165,7 @@ header {
   font-family: var(--font-display);
   display: flex;
   gap: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 
   nav {
     display: flex;
