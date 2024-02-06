@@ -21,11 +21,11 @@ tags:
 - He has spent the last decade roaming the land as a sword-for-hire, first travelling in Q'Barra, Valenar, and the Talenta Plains, and then finally fighting as a mercenary during the Last War. Each army he joined was defeated in battle, but he always managed to get a new contract with the victorious army and keep fighting.
 - During his travels he has tried to seek meaning in what happened to his clan. They, like most of the Cold Sun, were followers of [the Silver Flame](https://eberron.fandom.com/wiki/Church_of_the_Silver_Flame). While he still adheres to their mission to protect the dragonshards, he has no interest in the theological aspects of the faith.
 
-## Secret
-
-***Cursed***
-
-When I was younger, he was bragging/lying about finding and defeating some Fey warrior (maybe the Forgotten Prince or one of his lackies) in the jungle. I managed to insult the archfey known as the Forgotten Prince. He cursed me so that people often ignore me and no one gives me credit for any of my good deeds or accomplishments, though everyone remembers my mistakes. There must be some way to break the curse, but I don’t know what it is. I have proficiency in Deception.
+<details>
+  <summary>SPOILERS!</summary>
+  <h3>Cursed</h3>
+  <p>When I was younger, he was bragging/lying about finding and defeating some Fey warrior (maybe the Forgotten Prince or one of his lackies) in the jungle. I managed to insult the archfey known as the Forgotten Prince. He cursed me so that people often ignore me and no one gives me credit for any of my good deeds or accomplishments, though everyone remembers my mistakes. There must be some way to break the curse, but I don’t know what it is. I have proficiency in Deception.</p>
+</details>
 
 ## Goals
 
