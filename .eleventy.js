@@ -1,11 +1,13 @@
 import { EleventyRenderPlugin } from "@11ty/eleventy";
 import pluginWebc from "@11ty/eleventy-plugin-webc";
 import markdownItReplaceLinks from "markdown-it-replace-link";
-import markdownItWikilinks from "markdown-it-wikilinks";
+import { CAMPAIGNS } from "./campaigns.mjs";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/styles.css");
-  eleventyConfig.addPassthroughCopy("./src/_files");
+  CAMPAIGNS.forEach((campaign) => {
+    eleventyConfig.addPassthroughCopy(`./src/${campaign}/_files`);
+  });
 
   // Convert obsidian links to html links.
   eleventyConfig.amendLibrary("md", (mdLib) => {
@@ -16,13 +18,6 @@ export default function (eleventyConfig) {
       },
     });
   });
-
-  // // Convert images in wikilinks style
-  // eleventyConfig.amendLibrary('md', (mdLib) => {
-  //   mdLib.use(
-  //     markdownItWikilinks(),
-  //   );
-  // });
 
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(pluginWebc, {

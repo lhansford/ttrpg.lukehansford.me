@@ -3,7 +3,7 @@ import { join } from "path";
 
 import matter from "gray-matter";
 
-const CAMPAIGNS = ["empire-of-ghouls", "spelljammer-bebop"];
+import { CAMPAIGNS } from "../campaigns.mjs";
 
 function extractTitle(markdown) {
   const [, ...tail] = markdown.split("# ");
