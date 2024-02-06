@@ -5,7 +5,7 @@ campaignSlug: "spelljammer-bebop"
 ---
 <h1>Other</h1>
 <ul>
-  <li webc:for="post of collections.other.filter(p => p.data.campaignSlug === campaignSlug)">
+  <li webc:for="post of collections[`${campaignSlug}-other`]">
     <a :href="post.url" @text="post.data.title || '?'"></a>
   </li>
 </ul>

@@ -5,7 +5,7 @@ campaignSlug: "eberron"
 ---
 <h1>Session notes</h1>
 <ul>
-  <li webc:for="post of collections['session-notes'].filter(p => p.data.campaignSlug === campaignSlug)">
+  <li webc:for="post of collections[`${campaignSlug}-session-notes`]">
     <a :href="post.url" @text="post.data.title || '?'"></a>
   </li>
 </ul>

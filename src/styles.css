@@ -80,7 +80,13 @@ a:not([class]) {
 }
 
 html {
-  font-size: 16px;
+  font-size: 24px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
 }
 
 /* From https://css-pattern.com/ */
@@ -167,6 +173,8 @@ header {
 
   nav {
     display: flex;
+    align-items: center;
     gap: 0.5rem;
+    flex-wrap: wrap;
   }
 }

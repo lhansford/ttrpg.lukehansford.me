@@ -6,7 +6,7 @@ import { CAMPAIGNS } from "./campaigns.mjs";
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/styles.css");
   CAMPAIGNS.forEach((campaign) => {
-    eleventyConfig.addPassthroughCopy(`./src/${campaign}/_files`);
+    eleventyConfig.addPassthroughCopy(`./src/${campaign.slug}/_files`);
   });
 
   // Convert obsidian links to html links.
@@ -38,7 +38,7 @@ export default function (eleventyConfig) {
           tokens[idx].attrSet("height", height);
         }
 
-        tokens[idx].children = [{ type: 'text', content: alt }];
+        tokens[idx].children = [{ type: "text", content: alt }];
         return defaultRender(tokens, idx, options, env, self);
       };
     });
@@ -48,6 +48,22 @@ export default function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginWebc, {
     components: "src/_components/**/*.webc",
   });
+
+  ["other", "npcs", "locations", "session-notes", "creatures", "pcs"].forEach(
+    (tag) => {
+      CAMPAIGNS.forEach((campaign) => {
+        eleventyConfig.addCollection(
+          `${campaign.slug}-${tag}`,
+          function (collectionApi) {
+            return collectionApi
+              .getFilteredByTag(tag)
+              .filter((p) => p.data.campaignSlug === campaign.slug)
+              .sort((a, b) => a.data.title.localeCompare(b.data.title));
+          }
+        );
+      });
+    }
+  );
 
   return { dir: { input: "src", output: "_site" } };
 }

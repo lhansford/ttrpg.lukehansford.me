@@ -5,7 +5,7 @@ campaignSlug: "empire-of-ghouls"
 ---
 <h1>Creatures</h1>
 <ul>
-  <li webc:for="post of collections.creatures.filter(p => p.data.campaignSlug === campaignSlug)">
+  <li webc:for="post of collections[`${campaignSlug}-creatures`]">
     <a :href="post.url" @text="post.data.title || '?'"></a>
   </li>
 </ul>
