@@ -14,8 +14,33 @@ export default function (eleventyConfig) {
     mdLib.use(markdownItReplaceLinks, {
       replaceLink: (link, env) => {
         const campaign = env.page.inputPath.split("/")[2];
-        return `/${campaign}/${link.split(".md")[0]}/`;
+        if (link.endsWith(".md")) {
+          return `/${campaign}/${link.split(".md")[0]}/`;
+        } else {
+          return `/${campaign}/${link}`;
+        }
       },
+    });
+  });
+
+  // Convert image sizes
+  eleventyConfig.amendLibrary("md", (mdLib) => {
+    mdLib.use((md) => {
+      const defaultRender = md.renderer.rules.image;
+
+      md.renderer.rules.image = (tokens, idx, options, env, self) => {
+        const token = tokens[idx];
+        const [alt, size] = token.content.split("|");
+        const [width, height] = size.split("x").map((s) => s.trim());
+
+        tokens[idx].attrSet("width", width);
+        if (height) {
+          tokens[idx].attrSet("height", height);
+        }
+
+        tokens[idx].children = [{ type: 'text', content: alt }];
+        return defaultRender(tokens, idx, options, env, self);
+      };
     });
   });
 
