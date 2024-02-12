@@ -174,3 +174,7 @@ header {
     flex-wrap: wrap;
   }
 }
+
+p {
+  text-wrap: balance;
+}
