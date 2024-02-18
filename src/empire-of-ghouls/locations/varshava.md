@@ -1,16 +1,19 @@
 ---
 aliases: null
-in: null
+in: '[[locations/krakovar|Krakovar]]'
 layout: layout.webc
-title: Jozht
+title: Varshava
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - locations
 ---
-# Jozht
+# Varshava
 
-...
+- The city of horses. Known for its horse races and excellent horse breeding.
+- The leader gravely underestimated the undead threat and the city fell.
+- There used to be a world tree here, dedicated to Wotan. It was raized by the undead. The smoke hand around for months and people received visions of Ragnarok.
+- A spire is being built on a large cathedral there.
 
 ## Contains
 ```dataview

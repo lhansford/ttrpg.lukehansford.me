@@ -1,7 +1,7 @@
 ---
 aliases:
   - Edgin
-location: '[[locations/two-stars|Two Stars]]'
+location: '[[two-stars|Two Stars]]'
 origin: null
 layout: layout.webc
 title: Edgin Darvis

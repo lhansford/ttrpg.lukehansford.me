@@ -1,13 +1,14 @@
 ---
-player: Ben
-aliases:
-  - Jimmy the Hand
+player: Bryan
+aliases: null
+location: null
 origin: null
 layout: layout.webc
-title: Jimmy
+title: Sister Valendra
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - pcs
 ---
-# Jimmy
+# Sister Valendra
+- Guest PC

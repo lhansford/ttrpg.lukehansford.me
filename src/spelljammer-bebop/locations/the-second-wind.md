@@ -11,3 +11,4 @@ tags:
 - On the bow of the ship Raven has setup her personal area with a sparring dummy and a small shrine
  ![[_files/spelljammer-be-bop-1.png|250]]![[_files/spelljammer-be-bop.png|250]]
  - She has a Dragonshard hanging above her bunk.
+ - [Raven](pcs/raven.md) has set up a bookshelf with books for the crew on it. As [Spruce](npcs/spruce.md) demanded, its not called a library, it's a "Book Prison".

@@ -2,13 +2,13 @@
 aliases: null
 in: null
 layout: layout.webc
-title: Jozht
+title: Location
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
-  - locations
+  - _templates
 ---
-# Jozht
+# Location
 
 ...
 

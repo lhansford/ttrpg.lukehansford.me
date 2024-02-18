@@ -3,13 +3,13 @@ player: Luke
 aliases:
   - Mara
 layout: layout.webc
-title: Backstory
+title: Mara Nawojka
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - pcs
 ---
-
+# Mara Nawojka
 
 tl;dr: She worked in an arcane library in Krakovar and was killed during the invasion. Now she's a shade.
 
@@ -112,7 +112,7 @@ https://www.reddit.com/r/dndnext/comments/o0a6hs/the_necromancers_guide_to_anima
 - Dwarf corrupted (undead) graveslayer
 - Iron Ghoul
 - Skeleton Warhorse (Crab Pie)
-- 
+- The process of [Darakhul](other/darakhul.md) fever (as observed in [Jimmy](pcs/jimmy-the-hand.md))
 
 ## References
 

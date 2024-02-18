@@ -16,27 +16,25 @@ tags: []
 	- She bought be the Shadow Band.
 		- Shiftweave? Cloak of Many Fashions? Glamor armor?
 			- Glamoured armor is 2145gp
+- Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
 ## Tracking
 
 - Luck points: 0
-- For 24 hours
-	- +1 on attacks
-	- +1 on charm/frightened saves.
-- For the fight
-	- Protection from evil and good
-	- Shadow band is up
-	- Raven grabbed the Red Wizard's Blade.
 ## Quests
 
-- [[locations/the-rock-of-bral|Bral]] has lost communication with the dwarven settlement in [[locations/mingabwe]].
+- [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).
 	- Cold steel
-- Bounty for [[npcs/neely-the-hexsnape]]
-- Let [[npcs/the-unknown-one]] know we delivered the "cheese".
+	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
+- Bounty for [Neely the Hexsnape](npcs/neely-the-hexsnape.md)
+- Let [The Unknown One](npcs/the-unknown-one.md) know we delivered the "cheese".
+- Bring [Double Dux](npcs/double-dux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
 ## Personal goals
 
 - Wizard kill list
-	- [[npcs/double-dux]]
-	- [[npcs/tasha]]
+	- [Double Dux](npcs/double-dux.md)
+	- [Tasha](npcs/tasha.md)
 	- Her summoner
-	- [[npcs/santhi-ozul]] (the wizard from the haunted house in [[locations/faerun]])
-	- [[npcs/borgol-kirdis]]
+	- [Santhi Ozul](npcs/santhi-ozul.md) (the wizard from the haunted house in [Faerûn](locations/faerun.md))
+	- [Borgol Kirdis](npcs/borgol-kirdis.md)
+	- [M'weru](npcs/mweru.md)
+	- [Ravarel](pcs/ravarel-deshent.md) is on one strike.

@@ -10,15 +10,15 @@ tags:
 ---
 # The Infinite Staircase
 
-- A book we found in the [[other/the-red-wizards|Red Wizards]] haunted house near [[locations/mulsantir]].
-- By the [[npcs/archmage-mento-chef]].
+- A book we found in the [Red Wizards](other/the-red-wizards.md) haunted house near [Mulsantir](locations/mulsantir.md).
+- By the [Archmage Mento Chef](npcs/archmage-mento-chef.md).
 	- Explains the infinite staircase stretches to every plane. A big secret only few know about. A way to travel the multiverse. A series of demiplanes that creates a thread across planes. Within are doorways to planes.
 	- Very few people would have access and you would need almost god like power to share the knowledge of it with others.
-	- Entrances in [[locations/realmspace]]
-		- Near a griffon nest on mt [[locations/waterdeep]]
-		- A hallway in [[locations/stardock]] in [[locations/the-tears-of-selune]].
-		- [[locations/the-starhaven-palace]] on [[locations/the-rock-of-bral|Bral]]
+	- Entrances in [Realmspace](locations/realmspace.md)
+		- Near a griffon nest on mt [Waterdeep](locations/waterdeep.md)
+		- A hallway in [Stardock](locations/stardock.md) in [The Tears of Selune](locations/the-tears-of-selune.md).
+		- [The Starhaven Palace](locations/the-starhaven-palace.md) on [Bral](locations/the-rock-of-bral.md)
 	- Talks about different planes
 		- Abyss
-			- A demon named [[npcs/grazzit]]
+			- A demon named [Grazzit](npcs/grazzit.md)
 		- Feywild

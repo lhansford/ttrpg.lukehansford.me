@@ -1,14 +1,14 @@
 ---
 aliases: null
-in: null
+in: '[[locations/krakovar|Krakovar]]'
 layout: layout.webc
-title: Jozht
+title: Krakova
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - locations
 ---
-# Jozht
+# Krakova
 
 ...
 

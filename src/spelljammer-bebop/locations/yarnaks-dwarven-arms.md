@@ -1,14 +1,15 @@
 ---
 aliases: null
-in: null
+in:
+  - '[[locations/the-rock-of-bral|The Rock of Bral]]'
 layout: layout.webc
-title: Jozht
-campaignSlug: empire-of-ghouls
-campaignTitle: Empire of Ghouls
+title: Yarnak's Dwarven Arms
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
 tags:
   - locations
 ---
-# Jozht
+# Yarnak's Dwarven Arms
 
 ...
 

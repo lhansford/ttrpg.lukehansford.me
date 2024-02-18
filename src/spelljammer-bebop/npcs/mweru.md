@@ -11,5 +11,6 @@ tags:
   - npcs
 ---
 # M'weru
-- Reports to [[npcs/szass-tamm]]
+- Reports to [Szass Tamm](npcs/szass-tamm.md)
 - Zulkir of Evocation
+- Was in a relationship with [Double Dux](npcs/double-dux.md). He betrayed her and stole [The Red Wizard's Blade](other/the-red-wizards-blade.md).

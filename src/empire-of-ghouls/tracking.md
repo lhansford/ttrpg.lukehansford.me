@@ -14,6 +14,9 @@ tags: []
 	- Command Undead
 - Items to get
 	- Bag of holding, i.e. the bone bag
+- CAST ANIMATE DEAD AND SCARE THIS GUARD
+- Level 8
+	- Observant feat
 ## Tracking
 
 - Rebuke Death
@@ -22,10 +25,9 @@ tags: []
 	- [ ] Jimmy
 	- [ ] Valendar
 - Life drain
-	- [x] Used
-- Luck points: 1
+	- [ ] Used
+- Luck points: 2
 - Animated dead
-	- [crabpie](npcs/crabpie.md)
 ## Quests
 
 - "Recover the holy robes of [sister-adeline](npcs/sister-adeline.md), use it to stop the Dark Wedding, and then defeat the leader of the ghoul uprising" - [the-oracle](npcs/the-oracle.md)

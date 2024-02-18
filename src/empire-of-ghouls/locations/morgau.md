@@ -1,14 +1,15 @@
 ---
-aliases: null
+aliases:
+  - Duchy of Morgau
 in: null
 layout: layout.webc
-title: Jozht
+title: Morgau
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - locations
 ---
-# Jozht
+# Morgau
 
 ...
 

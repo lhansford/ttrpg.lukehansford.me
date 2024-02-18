@@ -1,13 +1,10 @@
 ---
-player: Ben
-aliases:
-  - Jimmy the Hand
-origin: null
+aliases: null
 layout: layout.webc
-title: Jimmy
+title: Title
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
-  - pcs
+  - _templates
 ---
-# Jimmy
+# Title

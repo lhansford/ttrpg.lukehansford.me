@@ -1,7 +1,7 @@
 ---
 locations:
   - '[[locations/mulsantir|Mulsantir]]'
-  - '[[locations/two-stars|Two Stars]]'
+  - '[[two-stars|Two Stars]]'
 date: 2024-02-04T00:00:00.000Z
 layout: layout.webc
 title: Session 14 (2024-02-04)
@@ -43,7 +43,7 @@ tags:
 				- Spelljamming ships cannot get there.
 					- [Hallister](npcs/hallister-blackcloak.md) captured a [Spelljammer](other/spelljammer.md) (squid class) and studied it to see if it was possible, but figured it couldn't.
 				- "Long live [Szass Tamm](npcs/szass-tamm.md)" - sign off on book, hard to tell [Double Dux](npcs/double-dux.md)'s position on them though.
-- We travelled towards [Two Stars](locations/two-stars.md). There were dark clouds to the East. We reached there near sunset. We went and found the Two Stars Tavern.
+- We travelled towards [Two Stars](two-stars.md). There were dark clouds to the East. We reached there near sunset. We went and found the Two Stars Tavern.
 	- Raven failed hard at finding [Edgin](npcs/edgin-darvis.md). Kulgan went to sweet talk the barkeep.
 	- The barkeep pointed out [Edgin](npcs/edgin-darvis.md) and he asked us to come with him to his house. Swan and Raven trailed behind a bit to keep an eye out for any followers.
 - At [Edgin](npcs/edgin-darvis.md)'s house we unloaded the crates. He mentioned they were for [The Wychlaran](other/the-wychlaran.md) of [Rashemen](locations/rashemen.md). He paid us 500gp
@@ -61,7 +61,7 @@ tags:
 - [Ravarel](pcs/ravarel-deshent.md) cast detect magic and spotted a scrying eye. He cast dispel on it and Edgin freaked out. We showed him [The Red Wizard's Blade](other/the-red-wizards-blade.md). He told us there were only 13 of them, 8 of which were accounted for.
 - [Rudy](pcs/refuge-unit-d3.md) asked [Edgin](npcs/edgin-darvis.md) about [Myla](npcs/myla.md). He said he'd in contact if he saw her.
 - He asked us to tell [Double Dux](npcs/double-dux.md) "I want my money back."
-- We left [Two Stars](locations/two-stars.md) and got about 6 hours out of town before setting up camp.
+- We left [Two Stars](two-stars.md) and got about 6 hours out of town before setting up camp.
 	- We rested without interruption.
 	- An owl kept hooting.
 - We continued on to [Mulsantir](locations/mulsantir.md). [Kulgan](pcs/kulgan.md) suggested we all hop in the cart.

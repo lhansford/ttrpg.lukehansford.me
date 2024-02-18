@@ -1,16 +1,17 @@
 ---
 aliases: null
-in: null
+in:
+  - '[[locations/the-rock-of-bral|Bral]]'
 layout: layout.webc
-title: Jozht
-campaignSlug: empire-of-ghouls
-campaignTitle: Empire of Ghouls
+title: Xenotermination Limited
+campaignSlug: spelljammer-bebop
+campaignTitle: Spelljammer Bebop
 tags:
   - locations
 ---
-# Jozht
+# Xenotermination Limited
 
-...
+Run by [Lt. Stan](npcs/lt-stan.md).
 
 ## Contains
 ```dataview

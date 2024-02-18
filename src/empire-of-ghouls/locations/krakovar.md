@@ -2,13 +2,13 @@
 aliases: null
 in: null
 layout: layout.webc
-title: Jozht
+title: Krakovar
 campaignSlug: empire-of-ghouls
 campaignTitle: Empire of Ghouls
 tags:
   - locations
 ---
-# Jozht
+# Krakovar
 
 ...
 
