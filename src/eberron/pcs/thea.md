@@ -11,4 +11,5 @@ tags:
 ---
 # Thea
 
-- Suspicious of everyone
+- Suspicious of everyone.
+- 

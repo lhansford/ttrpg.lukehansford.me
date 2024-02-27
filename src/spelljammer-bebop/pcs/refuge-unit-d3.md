@@ -13,3 +13,4 @@ tags:
 ---
 # Refuge Unit D3
 - Looking for [Myla](npcs/myla.md)
+- From Metrol in  [Eberron](locations/eberron.md).

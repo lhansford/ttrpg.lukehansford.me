@@ -1,5 +1,6 @@
 ---
-locations: null
+locations:
+  - '[[locations/varshava|Varshava]]'
 date: 2024-02-18T00:00:00.000Z
 layout: layout.webc
 title: Session 31 (2024-02-18)

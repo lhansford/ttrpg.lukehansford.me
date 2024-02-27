@@ -9,7 +9,7 @@ tags: []
 
 ## Tracking
 
-- Luck points: 1
+- Luck points: 2
 
 ## Todo
 
@@ -46,4 +46,4 @@ tags: []
 | Religion |  |  |
 | Sleight of hand |  |  |
 | Stealth | Peren (+5) |  |
-| Survival | Shagaby (+3) | Peren (+2) |
+| Survival | Forgettable (+6) | Shagaby (+3) |

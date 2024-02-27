@@ -14,20 +14,25 @@ tags: []
 	- Command Undead
 - Items to get
 	- Bag of holding, i.e. the bone bag
-- CAST ANIMATE DEAD AND SCARE THIS GUARD
 - Level 8
 	- Observant feat
+- Learn Gentle Repose
+- OUTFIT UPGRADE!
 ## Tracking
 
 - Rebuke Death
 	- [ ] Caelius
 	- [ ] Carrion
 	- [ ] Jimmy
-	- [ ] Valendar
 - Life drain
 	- [ ] Used
 - Luck points: 2
 - Animated dead
+	- Key Lime
+		- DC 9
+	- Raspberry
+		- DC 9
 ## Quests
 
-- "Recover the holy robes of [sister-adeline](npcs/sister-adeline.md), use it to stop the Dark Wedding, and then defeat the leader of the ghoul uprising" - [the-oracle](npcs/the-oracle.md)
+- "Recover the holy robes of [Sister Adeline](npcs/sister-adeline.md), use it to stop the Dark Wedding, and then defeat the leader of the ghoul uprising" - [The Oracle](npcs/the-oracle.md)
+- Visit Reaver's Cave and find out what's going on - [Jagoda Mazeruk](npcs/jagoda.md)

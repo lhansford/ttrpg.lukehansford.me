@@ -95,9 +95,20 @@ Physically Peren resembles a [Goanna](https://en.wikipedia.org/wiki/Goanna). He 
 
 ### Phrases and quirks
 
-hey wanhaka
-"I am the rock against the tide" (from King Stingray - Lookin Out) (You are the rock, but I am the tide (?))
-The sword is an extension of the arm
+- Likes to quote philosophers
+	- Djilba (stand in for Sun Tzu)
+		- 'The greatest victory is that which requires no battle.'
+
+### Vocabulary
+
+- tucker
+- walkabout
+- mob
+- songlines
+- lizardfellas
+- donkey's years
+- 
+
 
 ## Soundtrack
 
@@ -130,14 +141,29 @@ Ngintaku - from [Ngiṉṯaka - Wikipedia](https://en.wikipedia.org/wiki/Ngi%E1%
 ## Classes
 
 - Start with Fighter 1 Wizard 2
+- Wizard 3
+- Wizard 4
+	- ASI: Int and Con
 - Fighter 2
 - Fighter 3
-- Fighter 4 (maybe?)
-- Wizard 3 - 16
-	- Wizard 9
-		- Steel wind strike!
+- Fighter 4
+	- ASI: Dex x 2
+- Wizard 5 
+- Wizard 6
+- Wizard 7
+- Wizard 8
+	- ASI: Int x 2
+- Wizard 9
+	- Steel wind strike!
+- Wizard 10
+- Wizard 11
+- Wizard 12
+	- ASI: Dex x 2
+- Wizard 13
+- Wizard 14
 
 ### Considerations
 
 - Flame sphere could be fun
 - Shadow blade seems popular, but I'm not convinced.
+- There's no major interesting feats to take. Maybe Telekinetic or Warcaster, but the advantage is maybe not worth the ASI.
