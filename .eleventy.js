@@ -31,7 +31,7 @@ export default function (eleventyConfig) {
       md.renderer.rules.image = (tokens, idx, options, env, self) => {
         const token = tokens[idx];
         const [alt, size] = token.content.split("|");
-        const [width, height] = size.split("x").map((s) => s.trim());
+        const [width, height] = (size || "300x").split("x").map((s) => s.trim());
 
         tokens[idx].attrSet("width", width);
         if (height) {
