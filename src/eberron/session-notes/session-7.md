@@ -29,6 +29,6 @@ tags:
 	- [Vidi](pcs/vidi-veni.md) and [Peren](pcs/peren-ngintaku.md) suspected the Husks are maybe charmed.
 		- [Vidi](pcs/vidi-veni.md) with her detect magic identified the Husks being under the influence of an enchantment spell.
 - We entered another room. Inside was a statue of [Vidi](pcs/vidi-veni.md) and [Thea](pcs/thea.md).
-	- The statue had a newspaper with the headline "[Drynn](other/drynn.md) and [Valaara](other/valaara.md) to wed in [Sharn](locations/sharn.md)".
+	- The statue had a newspaper with the headline "[Dyrrn](other/dyrrn.md) and [Valaara](other/valaara.md) to wed in [Sharn](locations/sharn.md)".
 	- We tried to open a coffin there, but it exploded with acid.
 - We left that room and continued on. In the next room we encountered a large aberrant creature.

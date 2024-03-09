@@ -26,8 +26,8 @@ tags: []
 	- Cold steel
 	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
 - Bounty for [Neely the Hexsnape](npcs/neely-the-hexsnape.md)
-- Let [The Unknown One](npcs/the-unknown-one.md) know we delivered the "cheese".
 - Bring [Double Dux](npcs/double-dux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
+- Track down the spy who is shacked up with [Grimzen Gargenhale](grimzin-gargenhale.md) for [Prince Xeleth](prince-xeleth.md). 1000gp each + a magical sword.
 ## Personal goals
 
 - Wizard kill list

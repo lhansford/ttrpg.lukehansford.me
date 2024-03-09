@@ -11,3 +11,5 @@ tags:
   - pcs
 ---
 # Jimmy
+
+- Said he'd build a school for orphans if he had a lot of money.

@@ -26,7 +26,7 @@ tags:
 - The next morning someone requested to board the ship. They were a courier looking for Kez. A royal guard of the Astral Elves. They had an invite to a garden party.
 - Everyone except Raven got dressed up nicely.
 	- Swan had a beautiful dress and did herself up to make herself look more elf like, and with an accent.
-- Kez looked anxious as we headed to the party. He told Raven that he was on good terms with the [[prince-xeleth]], but that he can be quite irritating and just to ignore what he says (no killing).
+- Kez looked anxious as we headed to the party. He told Raven that he was on good terms with the [Prince Xeleth](prince-xeleth.md), but that he can be quite irritating and just to ignore what he says (no killing).
 - At Starhaven we were given an escort, a halfling named Felix. He led us to the garden where the party was about to start.
 - At the party we met [[prince-xeleth]] and Prince Andy.
 	- Other guests
@@ -39,11 +39,11 @@ tags:
 	- Prince Andy doesn't want this to happen.
 	- There's a spy. Somebody feeding Prince Andy info on what the Elves plans are.
 		- The spy, a woman about [[prince-xeleth]]'s age. She was sent to scout out realmspace, but never returned. Their location is a moving target (a ship). She's shacked up with Grimzin Gargenhale, a pirate known for attacking the Astral Elf fleet. Vampirates.
-		- [[prince-xeleth]] wants us to take out the spy.
+		- [Prince Xeleth](prince-xeleth.md) wants us to take out the spy.
 		- He wouldn't tell us the spy's name.
 		- Last seen in Realmspace, drifting about.
-- [[kez-bardaux|Kez]] said he "will personal handle this traitor".
+- [Kez](kez-bardaux.md) said he "will personal handle this traitor".
 - We agreed to a price of 1000gp each + a magical sword.
-	- [[swan]] also asked if she could learn how to use her psychic abilities better.
+	- [Swan](swan.md) also asked if she could learn how to use her psychic abilities better.
 - The Prince recommended we check for info with Grimzin's ex-girlfriend. Her name is Topela and maintains an observatory near Glith (should register on a Wildspace Orrery).
-- Prince Andy returned. Gadaric nodded at one of the guards and he drew his blade on [[prince-xeleth]].
+- Prince Andy returned. Gadaric nodded at one of the guards and he drew his blade on [Prince Xeleth](prince-xeleth.md).

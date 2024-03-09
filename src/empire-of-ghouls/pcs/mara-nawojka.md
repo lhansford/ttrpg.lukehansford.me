@@ -12,10 +12,7 @@ tags:
 # Mara Nawojka
 
 tl;dr: She worked in an arcane library in Krakovar and was killed during the invasion. Now she's a shade.
-
-![[_files/mara.png]]
-![[_files/mara (shade).png]]
-
+![Mara|250](_files/mara-winter.png)![250](_files/mara.png)![250](_files/mara%20(shade).png)
 ## Backstory
 
 Mara was an Elfmarked born and raised in Krakovar. She apprenticed and worked at the arcane library in the city and was settled in for a life of books and scrolls until the invasion. During the chaos she was slain, but hours later she awoke again as a Shade. Under the cover of night she snuck out of Krakovar and made her way south to Zobeck.

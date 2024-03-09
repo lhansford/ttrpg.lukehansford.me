@@ -22,28 +22,29 @@ tags: []
 
 ## Personal goals
 
-- 
+- ?
+
 ## Party
 
 ### Skills
 
-|  | First | Second |
-| ---- | ---- | ---- |
-| Acrobatics | Peren (+5) |  |
-| Animal Handling |  |  |
-| Arcana | Vidi (+5) |  |
-| Athletics | Bumbo (+5) |  |
-| Deception | Thea (+5) |  |
-| History | Peren (+3) |  |
-| Insight |  |  |
-| Intimidation |  |  |
-| Investigation | Thea (+3, Eye for detail) | Peren (+3) |
-| Medicine |  |  |
-| Nature | Peren (+5) |  |
-| Perception | Anyone, but Bumbo crit once |  |
-| Performance |  |  |
-| Persuasion |  |  |
-| Religion |  |  |
-| Sleight of hand |  |  |
-| Stealth | Peren (+5) |  |
-| Survival | Forgettable (+6) | Shagaby (+3) |
+|                 | First                       | Second       |
+| --------------- | --------------------------- | ------------ |
+| Acrobatics      | Peren (+5)                  |              |
+| Animal Handling |                             |              |
+| Arcana          | Vidi (+5)                   |              |
+| Athletics       | Bumbo (+5)                  |              |
+| Deception       | Thea (+5)                   |              |
+| History         | Peren (+3)                  |              |
+| Insight         |                             |              |
+| Intimidation    |                             |              |
+| Investigation   | Thea (+3, Eye for detail)   | Peren (+3)   |
+| Medicine        |                             |              |
+| Nature          | Peren (+5)                  |              |
+| Perception      | Anyone, but Bumbo crit once |              |
+| Performance     |                             |              |
+| Persuasion      |                             |              |
+| Religion        |                             |              |
+| Sleight of hand |                             |              |
+| Stealth         | Peren (+5)                  |              |
+| Survival        | Forgettable (+6)            | Shagaby (+3) |
