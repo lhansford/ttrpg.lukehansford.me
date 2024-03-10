@@ -7,7 +7,6 @@ tags: []
 ---
 # Crafting Rules
 
-```
 DOWNTIME
 Puddle Jump (up to 4 days) - No time to dive into a project
 Short Trip (5-10 days) - One Work Week
@@ -185,4 +184,3 @@ Characters can spend downtime on specific projects to make enhancements to the s
 SOMETHING ELSE
 
 PCs may want to do something else, speak with your GM.  Please let me know with as much advance as possible for anything not related to the above.
-```

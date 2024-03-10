@@ -24,12 +24,10 @@ tags: []
 	- [ ] Jimmy
 - Life drain
 	- [ ] Used
-- Luck points: 2
+- Luck points: 1
 - Animated dead
 	- Key Lime
-		- DC 9
-	- Raspberry
-		- DC 9
+		- DC 11
 - Robe of useful items
 	- Dagger x 2
     - Bullseye lantern (filled and lit) x 2
