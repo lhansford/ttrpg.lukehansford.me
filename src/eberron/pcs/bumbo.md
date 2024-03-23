@@ -14,3 +14,4 @@ tags:
 - Bumbo "Bubbles" Basher 
 - Has a little bear he carries around.
 - Cleans himself every morning with a cleansing stone.
+- Wants to be the best diplomat.

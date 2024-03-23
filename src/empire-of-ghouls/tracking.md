@@ -16,18 +16,18 @@ tags: []
 	- Bag of holding, i.e. the bone bag
 - Level 8
 	- Observant feat
+- I have 3 sea spawn corpses on the ship that have gentle repose cast on them.
 ## Tracking
 
 - Rebuke Death
 	- [ ] Caelius
 	- [ ] Carrion
+	- [ ] Mara
 	- [ ] Jimmy
-- Life drain
-	- [ ] Used
-- Luck points: 1
+	- [ ] ?
+- Luck points: 2
 - Animated dead
-	- Key Lime
-		- DC 11
+	- ...
 - Robe of useful items
 	- Dagger x 2
     - Bullseye lantern (filled and lit) x 2
@@ -35,9 +35,9 @@ tags: []
     - 10-foot pole x 2
     - Hempen rope (50 feet, coiled) x 2
     - Sack x 2
-    - Random patches x 10
+    - Random patches x 9
 
 ## Quests
 
 - "Recover the holy robes of [Sister Adeline](npcs/sister-adeline.md), use it to stop the Dark Wedding, and then defeat the leader of the ghoul uprising" - [The Oracle](npcs/the-oracle.md)
-- Visit Reaver's Cave and find out what's going on - [Jagoda Mazeruk](npcs/jagoda.md)
+- Visit Reaver's Cave and find out what's going on, then head to "Holdermus" and met up with the Shieldmaidens of Sif. - [Jagoda Mazeruk](npcs/jagoda.md)

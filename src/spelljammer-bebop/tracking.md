@@ -16,10 +16,15 @@ tags: []
 	- She bought be the Shadow Band.
 		- Shiftweave? Cloak of Many Fashions? Glamor armor?
 			- Glamoured armor is 2145gp
+			- 
 - Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
+- I need to get [Swan](swan.md) some potions of healing, she used two on me.
+	- Swan is hoarding potions.
+- Mourn Kulgan.
+- Collect some mushrooms for [Topolah](topolah.md).
 ## Tracking
 
-- Luck points: 0
+- Luck points: 2
 ## Quests
 
 - [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).

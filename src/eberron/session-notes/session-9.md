@@ -36,8 +36,8 @@ tags:
 	- We headed to the "Sivis Station", a place run by [House Sivis](other/house-sivis.md) where we can communicate from.
 	- We sent a message: 
 		- It's the Duskwood Group! Item recovered, Siloquy recovered. Only survivor. Siloquy is ill, heading to Arcanix to cure. Boroman, any connections in Arcanix?
-	- Boroman Ir'Dayne is the leader of [The Wayfinder Foundation](other/the-wayfinder-foundation.md).
+	- [Boroman Ir'Dayne](npcs/boroman-irdayne.md) is the leader of [The Wayfinder Foundation](other/the-wayfinder-foundation.md).
 	- [Bumbo](pcs/bumbo.md) asked [Peren](pcs/peren-ngintaku.md) if he wanted to go see the lizard races. [Peren](pcs/peren-ngintaku.md) was highly skeptical.
-	- We got a response back, "Sad news indeed. Seek Waldalix the Wise at arcanix and check back in with us as soon as you know more."
+	- We got a response back, "Sad news indeed. Seek  [Waldalix the Wise](npcs/waldalix-the-wise.md) at [Arcanix](locations/arcanix.md) and check back in with us as soon as you know more."
 - To get to [Arcanix](locations/arcanix.md) would take about 5 days.
-	- We made camp near the Eldritch Groves
+	- We made camp near the [Eldritch Groves](locations/eldritch-groves.md)

@@ -111,6 +111,8 @@ https://www.reddit.com/r/dndnext/comments/o0a6hs/the_necromancers_guide_to_anima
 - Skeleton Warhorse (Crab Pie)
 - The process of [Darakhul](other/darakhul.md) fever (as observed in [Jimmy](pcs/jimmy-the-hand.md))
 - Observations of skeletons at work on the Osprey (ship).
+- Sea Spawn
+- Sea Serpent (drawn from memory).
 
 ## References
 
