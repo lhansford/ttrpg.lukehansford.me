@@ -17,6 +17,7 @@ tags: []
 - Level 8
 	- Observant feat
 - I have 3 sea spawn corpses on the ship that have gentle repose cast on them.
+- Take the bloodstone circlet.
 ## Tracking
 
 - Rebuke Death
@@ -36,6 +37,8 @@ tags: []
     - Hempen rope (50 feet, coiled) x 2
     - Sack x 2
     - Random patches x 9
+- Concentration checks
+	- DC10 or half damage, whatever is highest.
 
 ## Quests
 

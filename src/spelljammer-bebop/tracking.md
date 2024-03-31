@@ -12,16 +12,19 @@ tags: []
 	- Probably learn weaving to make stuff for Swan
 		- Buy weaver's tools
 		- Look for a tutor. Maybe whoever mends the ship's sails?
+		- Maybe become a cook? To impress [Topolah](topolah.md).
+			- I'm studying cooking.
+				- 6 of 8 weeks completed
+				- Share with team about hit dice thing.
 - Figure out things to give to Swan. Just always be giving her random things that Raven thinks are cool, but also things Swan would like.
 	- She bought be the Shadow Band.
 		- Shiftweave? Cloak of Many Fashions? Glamor armor?
 			- Glamoured armor is 2145gp
-			- 
 - Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
 - I need to get [Swan](swan.md) some potions of healing, she used two on me.
 	- Swan is hoarding potions.
-- Mourn Kulgan.
-- Collect some mushrooms for [Topolah](topolah.md).
+- Return to [Topolah](topolah.md) and get more locate creature potions.
+- Talk to Kez about him trying to save the manticore egg and Swan killing it.
 ## Tracking
 
 - Luck points: 2

@@ -10,3 +10,6 @@ tags:
   - npcs
 ---
 # The Cowboy
+
+- Real name is Belton.
+- 
