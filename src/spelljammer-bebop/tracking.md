@@ -20,11 +20,16 @@ tags: []
 	- She bought be the Shadow Band.
 		- Shiftweave? Cloak of Many Fashions? Glamor armor?
 			- Glamoured armor is 2145gp
+- Potential items
+	- Rope of Climbing (2000gp)
+	- https://www.dndbeyond.com/magic-items/4750-rope-of-entanglement (4350gp)
 - Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
 - I need to get [Swan](swan.md) some potions of healing, she used two on me.
 	- Swan is hoarding potions.
 - Return to [Topolah](topolah.md) and get more locate creature potions.
-- Talk to Kez about him trying to save the manticore egg and Swan killing it.
+- Fight more in sync with Kez for that sneak attack.
+- Get a potion of greater healing
+- 1 on 1 with Rudy, talk to him about his changes, getting feeling for the first time.
 ## Tracking
 
 - Luck points: 2
@@ -33,9 +38,9 @@ tags: []
 - [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).
 	- Cold steel
 	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
-- Bounty for [Neely the Hexsnape](npcs/neely-the-hexsnape.md)
+- Bounty for [Neely the Hexsnape](neely-the-hex-snape.md)
 - Bring [Double Dux](npcs/double-dux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
-- Track down the spy who is shacked up with [Grimzen Gargenhale](grimzin-gargenhale.md) for [Prince Xeleth](prince-xeleth.md). 1000gp each + a magical sword.
+- Track down the spy (i.e. the Princess) who is shacked up with [Grimzen Gargenhale](grimzin-gargenhale.md) for [Prince Xeleth](prince-xeleth.md). 1000gp each + a magical sword.
 ## Personal goals
 
 - Wizard kill list

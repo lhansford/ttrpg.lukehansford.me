@@ -150,6 +150,7 @@ Ngintaku - from [Ngiṉṯaka - Wikipedia](https://en.wikipedia.org/wiki/Ngi%E1%
 	- ASI: Dex x 2
 - Wizard 5 
 - Wizard 6
+	- Extra attack!
 - Wizard 7
 - Wizard 8
 	- ASI: Int x 2
@@ -164,6 +165,6 @@ Ngintaku - from [Ngiṉṯaka - Wikipedia](https://en.wikipedia.org/wiki/Ngi%E1%
 
 ### Considerations
 
-- Flame sphere could be fun
 - Shadow blade seems popular, but I'm not convinced.
 - There's no major interesting feats to take. Maybe Telekinetic or Warcaster, but the advantage is maybe not worth the ASI.
+- Battlemaster seems best bet, Cavalier is a second option.

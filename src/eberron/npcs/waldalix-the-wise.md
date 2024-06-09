@@ -12,3 +12,4 @@ tags:
 # Waldalix the Wise
 
 - Recommended as a contact at [Arcanix](locations/arcanix.md) by [The Wayfinder Foundation](other/the-wayfinder-foundation.md).
+- Stays in Noctornus in [Arcanix](locations/arcanix.md).

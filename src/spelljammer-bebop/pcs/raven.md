@@ -83,6 +83,13 @@ That violence can end suffering.
 
 - "Forgive me Ilmater for the suffering I'm about to cause."
 
+## Morning routine
+
+- Wake up early
+- Climb somewhere high and spend 15 minutes praying to Ilmater.
+- Spend a little time training if we haven't fought recently.
+- Make breakfast for the crew.
+
 ## Alchemy
 
 - Raven is fascinated by alchemy, one of the few positive traits she picked up in her past life.

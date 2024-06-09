@@ -13,6 +13,7 @@ tags:
 
 - Important economic center on the continent of Ansalon.
 
+![](Screenshot%202024-04-07%20at%2010.59.02.png)
 ## Contains
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
