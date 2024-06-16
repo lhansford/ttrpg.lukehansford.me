@@ -19,6 +19,7 @@ tags:
 	  <li>Raven was originally a fey spirit. At some point she was bound by a wizard as their familiar. The wizard was cruel and evil, and she did his bidding as a familiar for a very long time.</li>
 	<li>During her time in captivity she learnt about the teachings of Ilmater. She broke her bond with her master, replacing it with a pledge of service to Ilmater. Part of the bargain was providing me with a new form to more easily hide from my past.</li>
 	<li>Transformed into a young teenager, Raven fled to Bral. She found refuge at the Temple of Ilmater, and ended up becoming an acolyte there. While she was trained as a cleric initially, her skills led her to a different role as a Blade of Ilmater, using her roguish skills to protect the suffering and oppressed.</li>
+	<li>Raven spent years coming to terms with her transformation, both physical and psychologically. As a fey spirit she had absolute freedom, as a familiar she had none, and as a human she has struggled to find a balance. Understanding human behaviour has been a particular challenge.</li>
 	<li>She has been on Bral for about a decade. Around 5 years ago she met Swan, and they became fast friends. In more recent years she has worked some jobs with Swan and Kez.</li>
 	</ul>
 </details>
@@ -32,11 +33,12 @@ That violence can end suffering.
 
 - **Curiousity.** I am fascinated by seeing familiar places through the eyes of my new body.
 - **Friendly**. I'm a little socially awkward and blunt, but overall quite friendly.
-- **Forgiving.** I'm not opposed to spilling blood, but I'll try to avoid harming people too much if there's a chance they'll repent.
 ### Ideals
 
 - **Freedom**. Better to die free than to live in chains. (Personal ideal)
 - **Compassion**. Halt and relieve the suffering of others, and take it on yourself if you must. (Ilmater ideal)
+- **Forgiving.** I'm not opposed to spilling blood, but I'll try to avoid harming people too much if there's a chance they'll repent.
+	- This is something Raven strives for, but in practice shes a bit hot-headed.
 ### Bonds
 
 - I loathe slavery and enchantments, and work to free those trapped by chains or magic.
@@ -119,14 +121,3 @@ That violence can end suffering.
 		- Studded leather
 		- 3 more shortswords (1 kukri, 2 sais)
 			- Or should the sais just be daggers, but bludgeoning?
-- Combat style
-	- If sneak attack is viable
-		- Attack with first weapon
-			- If hit, Dawn Strike to make the damage radiant for sneak attack
-				- Radiant Beam or cunning action as bonus
-			- If miss, off-hand attack or cunning action as bonus
-- What can her downtime thing be?
-	- Woodworker?
-- Ship
-	- Needs to have a chat with the Treant
-	- Will likely sleep in the tree

@@ -1,5 +1,6 @@
 ---
-locations: null
+locations:
+  - '[[the-astral-sea|The Astral Sea]]'
 date: 2024-06-09T00:00:00.000Z
 layout: layout.webc
 title: Session 31 (2024-06-09)

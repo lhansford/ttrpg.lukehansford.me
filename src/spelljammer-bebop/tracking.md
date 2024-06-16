@@ -30,9 +30,10 @@ tags: []
 - Fight more in sync with Kez for that sneak attack.
 - Get a potion of greater healing
 - 1 on 1 with Rudy, talk to him about his changes, getting feeling for the first time.
+- Speak with Swan about her sharing with the group that she's a shapechanger
 ## Tracking
 
-- Luck points: 2
+- Luck points: 3
 ## Quests
 
 - [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).
@@ -41,6 +42,7 @@ tags: []
 - Bounty for [Neely the Hexsnape](neely-the-hex-snape.md)
 - Bring [Double Dux](npcs/double-dux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
 - Track down the spy (i.e. the Princess) who is shacked up with [Grimzen Gargenhale](grimzin-gargenhale.md) for [Prince Xeleth](prince-xeleth.md). 1000gp each + a magical sword.
+	- Prince Xeleth wants us to visit him at [The Citadel](the-citadel.md).
 ## Personal goals
 
 - Wizard kill list

@@ -9,8 +9,8 @@ tags: []
 
 ## Tracking
 
-- Luck points: 2
-- Moon-touched rapier is corrupted. -1 to hit and dmg.
+- Luck points: 3
+- Star spawn was boomed last turn.
 
 ## Todo
 
@@ -47,7 +47,7 @@ tags: []
 | Investigation   | Vidi (+9)        | Thea (+3, Eye for detail) |
 | Medicine        |                  |                           |
 | Nature          | Peren (+5)       |                           |
-| Perception      | Forgettable (+6) | Shagaby (+5)              |
+| Perception      | Forgettable (+6) | Thea (+6)                 |
 | Performance     |                  |                           |
 | Persuasion      |                  |                           |
 | Religion        |                  |                           |
