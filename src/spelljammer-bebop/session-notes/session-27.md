@@ -14,7 +14,7 @@ tags:
 # Session 27 (2024-05-12)
 
 - We decided to split up. [Rudy](refuge-unit-d3.md) delivered the forged letter to [Dovghest Arguhl](dovghest-arghul.md) informing him of his son's death. The rest of us snuck up to the keep.
-	- [Raven](raven.md), [Swan](swan.md), [Ravarel](ravarel-deshent.md), and [Coleslaw](Coleslaw) climbed the wall and saw some sort of ritual going on in the courtyard.
+	- [Raven](raven.md), [Swan](swan.md), [Ravarel](ravarel-deshent.md), and [sssslattthhhhaaassss](sssslattthhhhaaassss.md) climbed the wall and saw some sort of ritual going on in the courtyard.
 	- [Dovghest Arguhl](dovghest-arghul.md) mentioned that the wand allowed him to "go somewhere else".
 		- He mentioned he was a Red Wizard, but had been exiled from Thay.
 		- [Rudy](refuge-unit-d3.md) told him that he had been to [Mulsantir](mulsantir.md) and [Two Stars](two-stars.md) and had dealings with [M'weru](mweru.md).

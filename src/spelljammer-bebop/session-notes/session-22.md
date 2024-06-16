@@ -24,9 +24,9 @@ tags:
 	- [Swan](swan.md) lost her name. She read a book that wasn't supposed to and now its gone.
 		- It was a hag, an archfey, that stole the name.
 		- She was also banished from the Feywild.
-	- [Coleslaw](Coleslaw) said he trusts [Raven](raven.md) most so far since they've been cooking together.
+	- [sssslattthhhhaaassss](sssslattthhhhaaassss.md) said he trusts [Raven](raven.md) most so far since they've been cooking together.
 	- [Swan](swan.md) asked [The Cowboy](the-cowboy.md) his real name. It was Belton.
-	- [Coleslaw](Coleslaw) asked [The Cowboy](the-cowboy.md) how he afforded [The Second Wind](the-second-wind.md).
+	- [sssslattthhhhaaassss](sssslattthhhhaaassss.md) asked [The Cowboy](the-cowboy.md) how he afforded [The Second Wind](the-second-wind.md).
 	- [The Cowboy](the-cowboy.md) mentioned he doesn't ever want to go back to "Doomspace".
 - We reached [Kalaman](kalaman.md). It was being attacked by a bunch of soldiers on dragons, draconians, and hobgoblins.
 	- We intervened in the attack on the side of the locals.

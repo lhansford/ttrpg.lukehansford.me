@@ -23,10 +23,10 @@ tags:
 	- He paid us 500gp each. Duncan took us to get Nealie.
 	- We found [Neely the Hexsnape](neely-the-hex-snape.md) in the dungeon. Nealie tried to spill her guts about spelljamming to Duncan, but we silenced her before she said too much.
 - [Swan](swan.md) went and found [Vera Woodstone](vera-woodstone.md). Told her to meet us in two hours at the ship
-- As we were walking back, [Coleslaw](Coleslaw) caught someone putting a scroll in his pocket. The scroll was a message to us, inviting us to meet with them in the stars at some point. It was marked with a red hand.
+- As we were walking back, [sssslattthhhhaaassss](sssslattthhhhaaassss.md) caught someone putting a scroll in his pocket. The scroll was a message to us, inviting us to meet with them in the stars at some point. It was marked with a red hand.
 	- Congratulations, "Heroes of Kalaman". I toast your bravery and daring. I could use audacious souls, such as yourselves, and will be watching your exploits across the spheres and planes with interest. This puny city has escaped the Dragon Queen’s grasp today, but none can defy her will for long, or Mine for that matter. I hope that when first we meet, it will be amongst the stars, and not amongst Kalaman’s ruins.
 - We took Nealie back to [The Second Wind](the-second-wind.md) and secured her.
-- [Swan](swan.md) and [Coleslaw](Coleslaw) stayed and prepped the ship for [Vera Woodstone](vera-woodstone.md).
+- [Swan](swan.md) and [sssslattthhhhaaassss](sssslattthhhhaaassss.md) stayed and prepped the ship for [Vera Woodstone](vera-woodstone.md).
 - The rest of the group went to return the wand.
 	- [Kez](kez-bardaux.md) told [Dovghest Arguhl](dovghest-arghul.md) that he had hidden the wand and lied.
 	- Kez also mentioned about [Prince Xeleth](prince-xeleth.md)'s plans with [The Red Wizards](the-red-wizards.md).

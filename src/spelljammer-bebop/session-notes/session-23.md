@@ -30,7 +30,7 @@ tags:
 	- He mentioned the possibility for a trade.
 		- Some of their scouts went missing. One of them is Lord Barakis' former ward, Vera. Her and Enrico were doing a recon mission about 10 days ago, 20 miles south.
 			- Kalaman's souther most outpost, the "Wheelwatch Outpost" had fallen to the Dragon Army. Vera had been sent to scope it and see what their numbers are, if they have dragonelles, etc.
-	- The Lord grilled [Coleslaw](Coleslaw) a bit about if he was draconian or not.
+	- The Lord grilled [sssslattthhhhaaassss](sssslattthhhhaaassss.md) a bit about if he was draconian or not.
 	- [Kez](kez-bardaux.md) tried to ask for more compensation to rescue Vera. [Rudy](refuge-unit-d3.md) got angry, said he was going to rescue the girl, and left. Lord Barakis said he understood and said he'd cover us.
 	- He mentioned we can visit "Wyhan" to get discounted potions etc.
 - [Kez](kez-bardaux.md) and [Rudy](refuge-unit-d3.md) patched things up.

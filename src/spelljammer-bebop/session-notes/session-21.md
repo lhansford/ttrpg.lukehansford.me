@@ -28,7 +28,7 @@ tags:
 - We entered Astral Space and saw a small boat with a humanoid fishing in it.
 	- He said he'd caught a couple of buckets and that his friends had left him behind.
 	- He introduced himself as Slathhasss or something, but we ended up calling him Coleslaw.
-	- [Raven](raven.md) cooked sichuan barbecue fish with [[Coleslaw]]'s help. It turned out real good, but extremely spicy. 
+	- [Raven](raven.md) cooked sichuan barbecue fish with [[sssslattthhhhaaassss]]'s help. It turned out real good, but extremely spicy. 
 - Slaw asked [Spruce](spruce.md) if he wanted help growing, which he took offense to, but then he got interested by the fact that he can grow flowers.
 - [Swan](swan.md) started decorating for [Kulgan](kulgan.md)'s funeral like it was a birthday party.
 	- We all played musical instruments badly.

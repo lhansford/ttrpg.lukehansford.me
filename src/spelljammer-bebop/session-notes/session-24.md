@@ -30,7 +30,7 @@ tags:
 		- The dragon queen.
 		- She came along time as a refugee from space/time
 - We left [[kalaman|Kalaman]] and headed towards the last known location of Vera.
-	- [[Coleslaw]] did some druidcraft to tell us that it would rain later in the day.
+	- [[sssslattthhhhaaassss]] did some druidcraft to tell us that it would rain later in the day.
 	- Along the way we saw a short person herding some sheep
 		- They were a red-headed Kender woman named Marger.
 			- [[raven|Raven]] took issue with her sheep, called them cowards.
