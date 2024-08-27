@@ -8,48 +8,44 @@ tags: []
 # Tracking
 ## Todo
 
-- Figure out crafting situation
-	- Probably learn weaving to make stuff for Swan
-		- Buy weaver's tools
-		- Look for a tutor. Maybe whoever mends the ship's sails?
-		- Maybe become a cook? To impress [Topolah](topolah.md).
-			- I'm studying cooking.
-				- 6 of 8 weeks completed
-				- Share with team about hit dice thing.
-- Figure out things to give to Swan. Just always be giving her random things that Raven thinks are cool, but also things Swan would like.
-	- She bought be the Shadow Band.
-		- Shiftweave? Cloak of Many Fashions? Glamor armor?
-			- Glamoured armor is 2145gp
-- Potential items
-	- Rope of Climbing (2000gp)
-	- https://www.dndbeyond.com/magic-items/4750-rope-of-entanglement (4350gp)
+> **Prepare Meals.** As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra hit point per Hit Die spent during a short rest, provided you have access to your cook’s utensils and sufficient food.
+
 - Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
 - I need to get [Swan](swan.md) some potions of healing, she used two on me.
 	- Swan is hoarding potions.
 - Return to [Topolah](topolah.md) and get more locate creature potions.
-- Fight more in sync with Kez for that sneak attack.
 - Get a potion of greater healing
-- 1 on 1 with Rudy, talk to him about his changes, getting feeling for the first time.
-- Speak with Swan about her sharing with the group that she's a shapechanger
+- Make some sashimi and onigiri with the Tuna.
+- Find out who the mercenaries were.
+- Get an antimatter rifle.
+- Hit on the Princess? lol
+	- Buy her some Everquist, that's her drink of choice.
+- Establish the connection between "The Resistance" and Ilmater as "The one who endures".
+- Help Ravarel's devil situation.
+	- Get his soul coin back, also prevent him harvesting souls.
+	- [Xedalli](princess-xedalli.md) knows of someone called "The Stranger" who may know Raphael's true name.
+
 ## Tracking
 
-- Luck points: 3
+- [x] Inspiration
+- [ ] Misty step
+- [ ] Bless
 ## Quests
 
 - [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).
 	- Cold steel
 	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
-- Bounty for [Neely the Hexsnape](neely-the-hex-snape.md)
 - Bring [Double Dux](npcs/double-dux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
-- Track down the spy (i.e. the Princess) who is shacked up with [Grimzen Gargenhale](grimzin-gargenhale.md) for [Prince Xeleth](prince-xeleth.md). 1000gp each + a magical sword.
-	- Prince Xeleth wants us to visit him at [The Citadel](the-citadel.md).
+- Prince Xeleth wants us to visit him at [The Citadel](the-citadel.md).
+- [Xedalli](princess-xedalli.md) wants us to help her fight [Prince Xeleth](prince-xeleth.md). We need to get a ship first.
 ## Personal goals
 
 - Wizard kill list
+	- Her summoner
 	- [Double Dux](npcs/double-dux.md)
 	- [Tasha](npcs/tasha.md)
-	- Her summoner
 	- [Santhi Ozul](npcs/santhi-ozul.md) (the wizard from the haunted house in [Faerûn](locations/faerun.md))
 	- [Borgol Kirdis](npcs/borgol-kirdis.md)
 	- [M'weru](npcs/mweru.md)
-	- [Ravarel](pcs/ravarel-deshent.md) is on one strike.
+	- [Ravarel](pcs/ravarel-deshent.md) is on two strikes (one for something I forgot, one for making a devil pact).
+- 

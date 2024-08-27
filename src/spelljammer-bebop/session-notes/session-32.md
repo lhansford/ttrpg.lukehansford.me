@@ -21,6 +21,6 @@ tags:
 		- We eventually managed to defeat the creatures.
 	- [Raven](raven.md) studied the creatures a bit. They are a type of creature that results from corruption near far realm portals. After 30 days they can turn into nests and produce more.
 		- We suspect they got on board in Krynn. [Raven](raven.md) asked [Wyhan](wyhan.md) if they're from Krynn, but she hadn't seen them. [The Cowboy](the-cowboy.md) had also never seen one, but said weird shit gets on the ship sometime.
-			- [Raven](raven.md) has suspicions that maybe the creatures were placed on [The Second Wind](the-second-wind.md) intentionally by someone.
+			- [Raven](raven.md) has suspicions that maybe the creatures were placed on [The Second Wind](the-second-wind.md) intentionally by someone
 	- We spoke a bit about the look of [New Evermeet](new-evermeet.md) as we approached.
 	- [Rudy](refuge-unit-d3.md) asked about some new feelings he was feeling. [Raven](raven.md) asked if he wanted to go for a walk and talk about it (to be continued next week!).

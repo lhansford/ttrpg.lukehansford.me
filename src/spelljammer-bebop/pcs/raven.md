@@ -21,7 +21,7 @@ tags:
 	<li>Transformed into a young teenager, Raven fled to Bral. She found refuge at the Temple of Ilmater, and ended up becoming an acolyte there. While she was trained as a cleric initially, her skills led her to a different role as a Blade of Ilmater, using her roguish skills to protect the suffering and oppressed.</li>
 	<li>Raven spent years coming to terms with her transformation, both physical and psychologically. As a fey spirit she had absolute freedom, as a familiar she had none, and as a human she has struggled to find a balance. Understanding human behaviour has been a particular challenge.</li>
 	<li>She has been on Bral for about a decade. Around 5 years ago she met Swan, and they became fast friends. In more recent years she has worked some jobs with Swan and Kez.</li>
-	</ul>
+		</ul>
 </details>
 
 ## Personality

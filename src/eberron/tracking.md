@@ -9,8 +9,9 @@ tags: []
 
 ## Tracking
 
-- Luck points: 3
-- Star spawn was boomed last turn.
+- [ ] Inspiration
+- Charmed by the big creature
+- Got 2 battlemaster manevurs, not 1.
 
 ## Todo
 
@@ -18,10 +19,12 @@ tags: []
 - Figure out the [dragonshard](other/dragonshards.md).
 - Get Bracers of Defence (5900GP)
 - Keep an eye out for antiquities to give to the Foundation.
+- What did Peren lose during the ritual?
 
 ## Quests
 
-- -
+- Stop assassination in [Ardev](locations/ardev.md).
+- Return to Fairhaven
 
 ## Personal goals
 
