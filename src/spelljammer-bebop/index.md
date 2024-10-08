@@ -26,3 +26,5 @@ Heroic High Fantasy in Space Yes you are on a ship.  Yes it is space.  But it is
 ## Setting
 
 - In [[locations/toril]], around 4020 (?).
+
+![](Pasted%20image%2020240915100833.png)

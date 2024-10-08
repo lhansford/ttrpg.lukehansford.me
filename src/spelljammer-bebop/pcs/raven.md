@@ -51,6 +51,7 @@ That violence can end suffering.
 - I do like shiny things, and will happily take something valuable from someone I deem doesn't need it, though I try to leave something else in return.
 - She's a bit of a show-off (like a bird) and will sometimes be a bit extra when its unneeded.
 - Strong distrust of domesticated animals (cats, cows, horses).
+- Will do anything for a pretty face.
 
 ### Stats
 
@@ -84,6 +85,7 @@ That violence can end suffering.
 ### Prayers
 
 - "Forgive me Ilmater for the suffering I'm about to cause."
+- "Solace". That's her healing word.
 
 ## Morning routine
 

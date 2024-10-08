@@ -9,9 +9,17 @@ tags: []
 
 ## Tracking
 
-- [ ] Inspiration
-- Charmed by the big creature
-- Got 2 battlemaster manevurs, not 1.
+- [x] Inspiration
+- [ ] Story inspiration (max 14)
+	- [ ] 6 pts
+- [ ] Magic missile wand
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [ ] Charge
 
 ## Todo
 
@@ -20,11 +28,16 @@ tags: []
 - Get Bracers of Defence (5900GP)
 - Keep an eye out for antiquities to give to the Foundation.
 - What did Peren lose during the ritual?
+- Signal to Thea next time Peren does something new and crazy
+	- Either a wink or say something like "Magic shit!"
+- Need to contact [Boroman Ir'Dayne](npcs/boroman-irdayne.md) at 8pm every night on the sending stones.
+- Talk to a runesmith about cantrips.
 
 ## Quests
 
 - Stop assassination in [Ardev](locations/ardev.md).
-- Return to Fairhaven
+	- Find Sanara and the 5 people she's working with.
+- Find the scrying artefact in [Ardev](locations/ardev.md).
 
 ## Personal goals
 

@@ -10,13 +10,7 @@ tags: []
 
 > **Prepare Meals.** As part of a short rest, you can prepare a tasty meal that helps your companions regain their strength. You and up to five creatures of your choice regain 1 extra hit point per Hit Die spent during a short rest, provided you have access to your cook’s utensils and sufficient food.
 
-- Return to the haunted house near [Mulsantir](locations/mulsantir.md) and get the spelljamming helms.
-- I need to get [Swan](swan.md) some potions of healing, she used two on me.
-	- Swan is hoarding potions.
 - Return to [Topolah](topolah.md) and get more locate creature potions.
-- Get a potion of greater healing
-- Make some sashimi and onigiri with the Tuna.
-- Find out who the mercenaries were.
 - Get an antimatter rifle.
 - Hit on the Princess? lol
 	- Buy her some Everquist, that's her drink of choice.
@@ -24,12 +18,27 @@ tags: []
 - Help Ravarel's devil situation.
 	- Get his soul coin back, also prevent him harvesting souls.
 	- [Xedalli](princess-xedalli.md) knows of someone called "The Stranger" who may know Raphael's true name.
+- Expand the book prison.
+- Craft some alchemists fire.
+- Take inspo https://www.reddit.com/r/DnD/comments/1fo6gvi/oc_art_comm_priest_of_ilmater/?share_id=39MNq_7p-4mOBfqVDolD-&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
+- Combat
+	- Hidden
+	- Shadow band activated
+	- Cloak of daggers daggers in hand.
+	- Reduced
+- To RP:
+	- Bolstering Light
+	- Concussion grenade
 
 ## Tracking
 
-- [x] Inspiration
-- [ ] Misty step
+- [ ] Inspiration 
+	- [x] Human heroic inspiration
+- [x] Misty step
 - [ ] Bless
+- [x] Healing Word
+- [ ] Mage Slayer - Guarded Mind
+- [ ] 11 uses of dust of dryness
 ## Quests
 
 - [Bral](locations/the-rock-of-bral.md) has lost communication with the dwarven settlement in [Mingabwe](locations/mingabwe.md).
