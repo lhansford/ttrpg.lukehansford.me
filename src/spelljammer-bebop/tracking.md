@@ -21,21 +21,21 @@ tags: []
 - Expand the book prison.
 - Craft some alchemists fire.
 - Take inspo https://www.reddit.com/r/DnD/comments/1fo6gvi/oc_art_comm_priest_of_ilmater/?share_id=39MNq_7p-4mOBfqVDolD-&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
-- Combat
-	- Hidden
-	- Shadow band activated
-	- Cloak of daggers daggers in hand.
-	- Reduced
 - To RP:
-	- Bolstering Light
-	- Concussion grenade
+	- Guidance
+- Tell Rudy he did the right thing
+	- E.g. give the dragon a chance to change his ways. Tenets of ilmater. Utilitarianism
+- Also talk with Kez, Ravarel, and Swan about what happened.
+	- Need to tell Swan to communicate better.
+- Situation
+	- Xedalli has the smoking bottle.
 
 ## Tracking
 
-- [ ] Inspiration 
-	- [x] Human heroic inspiration
+- Story points - 14
+- [x] Human heroic inspiration
 - [x] Misty step
-- [ ] Bless
+- [x] Bless
 - [x] Healing Word
 - [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
