@@ -14,8 +14,10 @@ tags:
 - We continued fighting the [Neogi](neogi.md). We managed to defeat the last one quickly.
 - All the doors were locked. Raven got one open and there was a chest in a small room. The other room contained the same.
 - We went downstairs. Raven opened the first door and there were four [Neogi](neogi.md) inside.
-	- The fight went sideways quickly. Raven opened the Eversmoking Bottle and everyone was just swinging around wildly. We managed to win in the end.
-- We explored the ship but found no adult Neogi. We did find lots of Neogi eggs though. We ended up destroying them.
+	- The fight went sideways quickly. Raven opened the Eversmoking Bottle and everyone was just swinging around wildly. [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) turned into a snake. We managed to win in the end.
+- We explored the ship but found no adult Neogi. We did find lots of Neogi eggs though.
+	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) tried to eat them, but the mindflayers advised against it.
+	- We ended up destroying them.
 - We contacted Rupphisk and Tregchumel. They came out of hiding. We talked about the dragon situation.
 - They rewarded us with some magical items.
 - The Mindflayers asked us some questions
