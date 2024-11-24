@@ -16,9 +16,9 @@ tags:
 	- We agreed on exchanging the knife for the prisoners + a cart.
 	- [Ravarel](pcs/ravarel-deshent.md) was about to agree on it, but [Raven](pcs/raven.md) jumped in to ask for safe passage as well. [M'weru](npcs/mweru.md) joked about us ruining her sport.
 	- She agreed on it if we shared info.
-		- [M'weru](npcs/mweru.md) was [Double Dux](npcs/double-dux.md)'s master, but she "got too close" in her words. She refused to join him in Wildspace. Her loyalty to the [Red Wizards](other/the-red-wizards.md) was "stronger than her love for Double D". [Double Dux](npcs/double-dux.md) stole her blade.
+		- [M'weru](npcs/mweru.md) was [Double Dux](dubbuldux.md)'s master, but she "got too close" in her words. She refused to join him in Wildspace. Her loyalty to the [Red Wizards](other/the-red-wizards.md) was "stronger than her love for Double D". [Double Dux](dubbuldux.md) stole her blade.
 		- [Raven](pcs/raven.md) told [M'weru](npcs/mweru.md) that we had found the blade in a box in the haunted house. She lied that it was in the bedroom where we found the trapped spellbook.
-- [M'weru](npcs/mweru.md) asked us why we were interested in [Double Dux](npcs/double-dux.md).
+- [M'weru](npcs/mweru.md) asked us why we were interested in [Double Dux](dubbuldux.md).
 	- She offered us 9000gp if we bring her the head of Double Dux.
 - [Kez](pcs/kez-bardaux.md) asked [M'weru](npcs/mweru.md) why there was an astral elf with her.
 	- She said that would require a lot more info from us.
@@ -28,7 +28,7 @@ tags:
 - [Rudy](pcs/refuge-unit-d3.md) swore that he would kill [M'weru](npcs/mweru.md).
 - [Ravarel](pcs/ravarel-deshent.md) told [M'weru](npcs/mweru.md) that he might consider joining [The Red Wizards](other/the-red-wizards.md).
 - [M'weru](npcs/mweru.md) departed and we headed back to [The Second Wind](other/the-second-wind.md). [Kulgan](pcs/kulgan.md) gave the cart renter the gold [M'weru](npcs/mweru.md) gave us.
-- We got back to [The Second Wind](other/the-second-wind.md) and told [The Cowboy](npcs/the-cowboy.md) about the bounty we got on [Double Dux](npcs/double-dux.md).
+- We got back to [The Second Wind](other/the-second-wind.md) and told [The Cowboy](npcs/the-cowboy.md) about the bounty we got on [Double Dux](dubbuldux.md).
 - [Raven](pcs/raven.md) shared the [Manual of the Planes](other/manual-of-the-planes.md) with the crew which they were excited about.
 - [The Cowboy](npcs/the-cowboy.md) mentioned to [Rudy](pcs/refuge-unit-d3.md) that [Lt. Stan](npcs/lt-stan.md) is secretly a very good illustrator.
 - We left [Toril](locations/toril.md) and headed back to [Bral](locations/the-rock-of-bral.md).

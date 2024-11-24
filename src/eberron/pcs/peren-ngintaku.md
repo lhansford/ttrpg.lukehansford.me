@@ -42,6 +42,7 @@ That he deserves the bad things that happen to him.
 
 - I interpret every event as part of a larger pattern I just haven’t worked out yet. 
 - He won't allow himself any vices.
+- He doesn't dream normally https://keith-baker.com/lizard-dreams/
 
 ### Ideals
 

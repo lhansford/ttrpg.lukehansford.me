@@ -7,24 +7,10 @@ tags: []
 ---
 # Tracking
 
-## Custom
-
-### Starchallenge Blade
-
-Evocation Cantrip (Artificer, Sorcerer, Warlock, Wizard)
-Casting Time: 1 Action
-Range: Self (5-foot)
-Components: S, M
-Duration: 1 Round
-
-You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects and then becomes wreathed in starlight until the start of your next turn. If the target willingly attacks a creature other than you, the target takes 1d6 radiant damage, and the spell ends.
-
-Cantrip Upgrade. This spell’s damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 radiant damage, and the delayed radiant damage increases to 2d6. Both damage rolls increase by one die at 11th level (2d8 and 3d6) and again at 17th level (3d8 and 4d6)
-
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 14 pts
+	- [ ] 6 pts
 - [ ] Magic missile wand
 	- [x] Charge
 	- [ ] Charge
@@ -33,7 +19,7 @@ Cantrip Upgrade. This spell’s damage increases when you reach certain levels. 
 	- [ ] Charge
 	- [ ] Charge
 	- [ ] Charge
-- [ ] Heroic inspiration from Shagaby
+- [x] Heroic inspiration from Shagaby (for the day)
 
 ## Todo
 
@@ -46,23 +32,20 @@ Cantrip Upgrade. This spell’s damage increases when you reach certain levels. 
 	- Either a wink or say something like "Magic shit!"
 - Need to contact [Boroman Ir'Dayne](npcs/boroman-irdayne.md) at 8pm every night on the sending stones.
 - New abilities to RP
-	- double attack
 	- arcane vigor
 	- Spirit Shroud
 - Give feedback to Cadoras about the Wand of Dry Cleaning.
 - Get Octarine Dragonshard back from Karliss.
-- Add spellcharms to dnd beyond
-	- Pass Without Trace
-	- Calm Emotions
-	- Summon Minor Elementals
-- Share with group about the cult info and other stuff the fairy said.
-
+- Fishing rod from Vidi
+- Peren currently has greater invisibility.
+- Follow Bumbo later tonight.
 ## Quests
 
 - Stop assassination in [Ardev](locations/ardev.md).
 	- Find Sanara and the 5 people she's working with.
 - Find the scrying artefact in [Ardev](locations/ardev.md).
 	-  Talk to Orrin about the submarine
+- Investigate the cult at Hoffsteader Ranch.
 
 ## Personal goals
 

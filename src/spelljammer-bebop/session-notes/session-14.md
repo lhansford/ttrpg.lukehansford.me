@@ -32,7 +32,7 @@ tags:
 		- [Manual of the Planes](other/manual-of-the-planes.md)
 			- See image
 			- Handy for spelljamming to other locations
-		- An Unknown Sphere by [Double Dux](npcs/double-dux.md)
+		- An Unknown Sphere by [Double Dux](dubbuldux.md)
 			- Likely referring to [Eberron](locations/eberron.md)
 			- The Sphere of Dragons
 				- Believed travel to and from this sphere is impossible
@@ -42,7 +42,7 @@ tags:
 				- There is a man/dragon named [Ames](npcs/ames.md) that might know how to get there too
 				- Spelljamming ships cannot get there.
 					- [Hallister](npcs/hallister-blackcloak.md) captured a [Spelljammer](other/spelljammer.md) (squid class) and studied it to see if it was possible, but figured it couldn't.
-				- "Long live [Szass Tamm](npcs/szass-tamm.md)" - sign off on book, hard to tell [Double Dux](npcs/double-dux.md)'s position on them though.
+				- "Long live [Szass Tamm](npcs/szass-tamm.md)" - sign off on book, hard to tell [Double Dux](dubbuldux.md)'s position on them though.
 - We travelled towards [Two Stars](two-stars.md). There were dark clouds to the East. We reached there near sunset. We went and found the Two Stars Tavern.
 	- Raven failed hard at finding [Edgin](npcs/edgin-darvis.md). Kulgan went to sweet talk the barkeep.
 	- The barkeep pointed out [Edgin](npcs/edgin-darvis.md) and he asked us to come with him to his house. Swan and Raven trailed behind a bit to keep an eye out for any followers.
@@ -52,15 +52,15 @@ tags:
 - Raven threatened to slit his throat if anyone innocent got hurt.
 	- Edgin spilt his guts about being a member of the [Harpers](other/harpers.md) and getting the wands to help [The Wychlaran](other/the-wychlaran.md) fight [The Red Wizards](other/the-red-wizards.md).
 	- He mentioned the [Red Wizards](other/the-red-wizards.md) might have access to a  [spelljammer](other/spelljammer.md).
-- [Edgin](npcs/edgin-darvis.md) also mentioned [Double Dux](npcs/double-dux.md). He said he's not to be trusted. He had a run in with him in [Waterdeep](locations/waterdeep.md).
+- [Edgin](npcs/edgin-darvis.md) also mentioned [Double Dux](dubbuldux.md). He said he's not to be trusted. He had a run in with him in [Waterdeep](locations/waterdeep.md).
 	- There was conference.  [Mordenkainen](npcs/mordenkainen.md) and [Tasha](npcs/tasha.md) were there. About 5 years ago.
-	- He thinks [Double Dux](npcs/double-dux.md) was responsible for teaching [The Red Wizards](other/the-red-wizards.md) about spelljamming.
+	- He thinks [Double Dux](dubbuldux.md) was responsible for teaching [The Red Wizards](other/the-red-wizards.md) about spelljamming.
 	- He was double crossed by Double Dux.
 - [Rudy](pcs/refuge-unit-d3.md) told [Edgin](npcs/edgin-darvis.md) we looked in the crates. Edgin was glad that we were honest.
 - We mentioned to Edgin that we purchased items from [Borgol Kirdis](npcs/borgol-kirdis.md) He told us to be careful of curses.
 - [Ravarel](pcs/ravarel-deshent.md) cast detect magic and spotted a scrying eye. He cast dispel on it and Edgin freaked out. We showed him [The Red Wizard's Blade](other/the-red-wizards-blade.md). He told us there were only 13 of them, 8 of which were accounted for.
 - [Rudy](pcs/refuge-unit-d3.md) asked [Edgin](npcs/edgin-darvis.md) about [Myla](npcs/myla.md). He said he'd in contact if he saw her.
-- He asked us to tell [Double Dux](npcs/double-dux.md) "I want my money back."
+- He asked us to tell [Double Dux](dubbuldux.md) "I want my money back."
 - We left [Two Stars](two-stars.md) and got about 6 hours out of town before setting up camp.
 	- We rested without interruption.
 	- An owl kept hooting.

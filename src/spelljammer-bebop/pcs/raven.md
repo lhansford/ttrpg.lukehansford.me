@@ -39,6 +39,7 @@ That violence can end suffering.
 - **Compassion**. Halt and relieve the suffering of others, and take it on yourself if you must. (Ilmater ideal)
 - **Forgiving.** I'm not opposed to spilling blood, but I'll try to avoid harming people too much if there's a chance they'll repent.
 	- This is something Raven strives for, but in practice shes a bit hot-headed.
+	- She doesn't really care about ideas of Justice or Vengeance. Except maybe when it comes to wizards.
 ### Bonds
 
 - I loathe slavery and enchantments, and work to free those trapped by chains or magic.

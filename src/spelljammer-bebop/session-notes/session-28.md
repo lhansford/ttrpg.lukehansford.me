@@ -24,6 +24,6 @@ tags:
 	- [Dovghest Arguhl](dovghest-arghul.md) mentioned there's a portal to [Eberron](eberron.md) in [Sigil](sigil.md).
 	- Darlon Mar, zulkir of enchantment. Stood in the way of [Szass Tamm](szass-tamm.md) taking charge in Thay, but they lost.
 	- The Thayan exiles call themselves "The Separatists" or "The Separatist Merchants".
-	- She mentioned [M'weru](mweru.md) was exiled, but still loyal to Tam. She was exiled for letting [Double Dux](double-dux.md) get too close to the inner circle.
+	- She mentioned [M'weru](mweru.md) was exiled, but still loyal to Tam. She was exiled for letting [Double Dux](dubbuldux.md) get too close to the inner circle.
 	- Dovghest asked us to help him search for his wand.
 	- 

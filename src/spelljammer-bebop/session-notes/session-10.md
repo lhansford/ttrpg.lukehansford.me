@@ -12,7 +12,7 @@ tags:
 # Session 10 (2024-01-07)
 
 - After the fight [[other/the-unknown-guild]] members came to meet [[npcs/gazpacho]]. With them they had a warforged named [[pcs/refuge-unit-d3|Rudy]]. Rudy was the one that wanted to meet Gazpacho to seek some info. He was looking for his charge, [[npcs/myla]], and heard that Gazpacho might know how to return to [[locations/eberron]]. 
-- Gazpacho was friends with [[npcs/double-dux]]. He was working on a spell, Dream of the Blue Veil, that could potentially transport a group to Eberron. He gave Gazpacho a [[other/dragonshards|dragonshard]] that could used as a tether to Eberron. He also mentioned a wizard named [[npcs/tasha]] in Sigil might have info as well.
+- Gazpacho was friends with [[dubbuldux]]. He was working on a spell, Dream of the Blue Veil, that could potentially transport a group to Eberron. He gave Gazpacho a [[other/dragonshards|dragonshard]] that could used as a tether to Eberron. He also mentioned a wizard named [[npcs/tasha]] in Sigil might have info as well.
 	- At the mention of Tasha Swan got visibly uncomfortable and walked away.
 	- Raven has now added Tasha to her shitlist (alongside Double Dux).
 - We decided to do a smuggling job for the Unknown Guild, taking some "cheese" to Toril. 6 boxes going to [[npcs/edgin-darvis]] (with a heart pin on his lapel). At the Two Stars Tavern in Two Stars.

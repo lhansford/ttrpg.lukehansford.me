@@ -16,4 +16,4 @@ tags:
 ![](Pasted%20image%2020240721113321.png)
 
 - Normally she has gold eyes, but they change slightly to red when shes angry.
-- 
+- Drink of choice is Everquist.
