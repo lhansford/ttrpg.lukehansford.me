@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Rowan
+aliases: null
 origin: null
 player: Katie
 layout: layout.webc

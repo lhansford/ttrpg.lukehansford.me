@@ -42,7 +42,6 @@ That he deserves the bad things that happen to him.
 
 - I interpret every event as part of a larger pattern I just haven’t worked out yet. 
 - He won't allow himself any vices.
-- He doesn't dream normally https://keith-baker.com/lizard-dreams/
 
 ### Ideals
 
@@ -151,7 +150,6 @@ Ngintaku - from [Ngiṉṯaka - Wikipedia](https://en.wikipedia.org/wiki/Ngi%E1%
 	- ASI: Dex x 2
 - Wizard 5 
 - Wizard 6
-	- Extra attack!
 - Wizard 7
 - Wizard 8
 	- ASI: Int x 2
