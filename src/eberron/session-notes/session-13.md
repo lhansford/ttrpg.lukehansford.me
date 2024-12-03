@@ -25,6 +25,6 @@ tags:
 - Alyea asked us a bit about [The Wayfinder Foundation](other/the-wayfinder-foundation.md).
 	- The Clifftoppers came up. They're a rival adventuring group from Sharn.
 - We mentioned the abberations we encoutnered in [Duskwood](locations/duskwood.md). [Raulo](npcs/raulo.md) recommened we tell his friend in Skyreach, Zogak
-	- She dated a guy named Lark Susha. An well-known aberration hunter in the [Shadow Marshes](locations/shadow-marshes.md)
+	- She dated a guy named Lark Susha. An well-known aberration hunter in the [Shadow Marshes](locations/shadow-marches.md)
 	- [Forgettable](pcs/forgettable.md) mentioned the ilithid - Raulo was extremely concerned.
 - [Raulo](npcs/raulo.md) was concerned enough to give us a potion of vitality and accompany us immediately to visit Zogak. We took griffins up to the school.

@@ -42,6 +42,7 @@ That he deserves the bad things that happen to him.
 
 - I interpret every event as part of a larger pattern I just haven’t worked out yet. 
 - He won't allow himself any vices.
+- He doesn't dream normally https://keith-baker.com/lizard-dreams/
 
 ### Ideals
 
@@ -107,15 +108,18 @@ Physically Peren resembles a [Goanna](https://en.wikipedia.org/wiki/Goanna). He 
 - songlines
 - lizardfellas
 - donkey's years
-- 
-
-
 ## Soundtrack
 
 - [King Stingray - Lookin' Out My Back Door | Sydney New Year's Eve 2023 | ABC TV + iview - YouTube](https://www.youtube.com/watch?v=aLF62gBveIc)
 - [Akira Ito - Praying for Mother / Earth Part 1](https://kankyongaku.bandcamp.com/track/praying-for-mother-earth-part-1)
 - KG&LW - Dragon
 - [Carbon Cycle | Hannah Peel](https://hannahpeelmusic.bandcamp.com/track/carbon-cycle)
+
+## Spells
+
+### Spirit shroud
+
+Peren calls out "Warriors of the Cold Sun, come to my aid". They appear as lizardfolk warriors made of swirling bushfire smoke.
 
 ---
 ## Name
@@ -137,32 +141,3 @@ Ngintaku - from [Ngiṉṯaka - Wikipedia](https://en.wikipedia.org/wiki/Ngi%E1%
 [Achkan - Wikipedia](https://en.wikipedia.org/wiki/Achkan)
 [Zouave - Wikipedia](https://en.wikipedia.org/wiki/Zouave)
 [Sirwal - Wikipedia](https://en.wikipedia.org/wiki/Sirwal)
-
-## Classes
-
-- Start with Fighter 1 Wizard 2
-- Wizard 3
-- Wizard 4
-	- ASI: Int and Con
-- Fighter 2
-- Fighter 3
-- Fighter 4
-	- ASI: Dex x 2
-- Wizard 5 
-- Wizard 6
-- Wizard 7
-- Wizard 8
-	- ASI: Int x 2
-- Wizard 9
-	- Steel wind strike!
-- Wizard 10
-- Wizard 11
-- Wizard 12
-	- ASI: Dex x 2
-- Wizard 13
-- Wizard 14
-
-### Considerations
-
-- Shadow blade seems popular, but I'm not convinced.
-- There's no major interesting feats to take. Maybe Telekinetic or Warcaster, but the advantage is maybe not worth the ASI.

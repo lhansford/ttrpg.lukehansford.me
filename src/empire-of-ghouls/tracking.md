@@ -16,21 +16,17 @@ tags: []
 	- Simulacrum? To prevent 
 - Items to get
 	- Bag of holding, i.e. the bone bag
-- Level 8
-	- Observant feat
-- I have 3 sea spawn corpses on the ship that have gentle repose cast on them.
 - Take the bloodstone circlet.
 - Take spells
-	- Aura of Protection
-	- Candle's Insight
-	- Dread Wings (AOE)
-	- Drown (Single target, especially spell casters!)
-	- Find Kin
-	- Heart to Heart
-	- Not Dead Yet (Ritual)
+	- Candle's Insight (1)
+	- Drown (Single target, especially spell casters!) (3)
+	- Heart to Heart (1)
+	- Not Dead Yet (Ritual) (4)
+	- SHADOW REALM GATEWAY (5) [Midgard Heroes Handbook]
 - True Resurrection
 	- Can I get it?
 	- Talk to Carrion?
+- Make sure we divvy up loot from last time.
 ## Tracking
 
 - Rebuke Death
@@ -38,8 +34,8 @@ tags: []
 	- [ ] Carrion
 	- [ ] Mara
 	- [ ] Jimmy
-	- [ ] ?
-- Luck points: 2
+	- [ ] Ivan
+- Luck points: 0
 - Animated dead
 	- ...
 - Robe of useful items
@@ -49,11 +45,14 @@ tags: []
     - 10-foot pole x 2
     - Hempen rope (50 feet, coiled) x 2
     - Sack x 2
-    - Random patches x 9
+    - Random patches x 8
 - Concentration checks
 	- DC10 or half damage, whatever is highest.
 
 ## Quests
 
 - "Recover the holy robes of [Sister Adeline](npcs/sister-adeline.md), use it to stop the Dark Wedding, and then defeat the leader of the ghoul uprising" - [The Oracle](npcs/the-oracle.md)
-- Visit Reaver's Cave and find out what's going on, then head to "Holdermus" and met up with the Shieldmaidens of Sif. - [Jagoda Mazeruk](npcs/jagoda.md)
+- Visit Reaver's Cave and find out what's going on, then head to [Huldramose](locations/huldramose.md)  and met up with the Shieldmaidens of Sif. - [Jagoda Mazeruk](npcs/jagoda.md)
+- Get to the blood wedding.
+- Return shield of Rayngrid Ironeyes to Sisters of Sif in [Huldramose](locations/huldramose.md).
+- 

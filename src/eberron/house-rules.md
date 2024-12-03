@@ -13,6 +13,7 @@ tags: []
 - If you are playing a class with summons, keep a maximum of four (4)
 - TotV luck points
 - Death saving throws in private.
+- Haste does not cause incapacitation on loss.
 - Everything else, RAW as possible.
 
 ## Dazed
