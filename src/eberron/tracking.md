@@ -10,7 +10,7 @@ tags: []
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 6 pts
+	- [ ] 8 pts
 - [ ] Magic missile wand
 	- [x] Charge
 	- [ ] Charge
@@ -20,8 +20,6 @@ tags: []
 	- [ ] Charge
 	- [ ] Charge
 - [x] Heroic inspiration from Shagaby (for the day)
-	- -3 fighter healing dice
-	- -4 wizard healing dice
 
 ## Todo
 

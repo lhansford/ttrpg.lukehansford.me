@@ -18,25 +18,34 @@ tags: []
 	- [Xedalli](princess-xedalli.md) knows of someone called "The Stranger" who may know Raphael's true name.
 - Expand the book prison.
 - Craft some alchemists fire.
-- Take inspo https://www.reddit.com/r/DnD/comments/1fo6gvi/oc_art_comm_priest_of_ilmater/?share_id=39MNq_7p-4mOBfqVDolD-&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
-- https://www.reddit.com/r/TheGriffonsSaddlebag/comments/iul8al/the_griffons_saddlebag_conspirators_coat_wondrous/
 - Party
 	- Make some nasi lemak
 - Talk to El'a about if she knows alchemy.
 - Complement Kez on the cloak he made.
-- Kylana
+- [Kylana](kylana.md)
 	- Ask more about the quartz
 	- Dinner party with Udon and Cake.
+- Meet [Kardin](kardin.md) and ask for lycanthrope assistance.
+- Understand more about [Soul coins](soul-coins.md) (given [Ravarel](ravarel-deshent.md)'s situation)
+	- What would the standpoint of Ilmater be?
+	- Can a soul be saved?
+- Talk to [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) about his familiar.
 
 ## Tracking
 
 - Story points - 8
 - [ ] Human heroic inspiration
-- [ ] Misty step
+- [x] Misty step
 - [ ] Bless
 - [ ] Healing Word
 - [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
+- [ ] Coat of the alibi
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [ ] Charge
+	- [ ] Charge
 
 ## Quests
 

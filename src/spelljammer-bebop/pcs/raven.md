@@ -68,6 +68,7 @@ That violence can end suffering.
 - Lots of mismatched jewellery
 - Cuffs of baby raven feathers
 - Pearl earrings with baby raven feathers.
+- https://www.reddit.com/r/TheGriffonsSaddlebag/comments/iul8al/the_griffons_saddlebag_conspirators_coat_wondrous/
 
 ### Equipment
 
