@@ -1,6 +1,7 @@
 ---
 aliases:
   - The Bloodfrenzy
+  - Bloodfrenzy
 layout: layout.webc
 title: SJ Bloodfrenzy
 campaignSlug: spelljammer-bebop

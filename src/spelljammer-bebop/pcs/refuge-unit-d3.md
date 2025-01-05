@@ -3,7 +3,7 @@ aliases:
   - Rudy
   - Refuge Unit D3
 player: Jordan
-origin: '[[locations/eberron|Eberron]]'
+origin: '[[metrol|Metrol]]'
 layout: layout.webc
 title: Refuge Unit D3
 campaignSlug: spelljammer-bebop
@@ -12,5 +12,6 @@ tags:
   - pcs
 ---
 # Refuge Unit D3
+
 - Looking for [Myla](npcs/myla.md)
-- From Metrol in  [Eberron](locations/eberron.md).
+- From [Metrol](metrol.md) in [Eberron](locations/eberron.md).

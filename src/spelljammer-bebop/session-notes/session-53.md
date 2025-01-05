@@ -36,11 +36,11 @@ tags:
 			- [Raven](raven.md) grabbed a bottle of wine and went over to them. The Gargoyle said the werewolves were their servants, but then he went for a bathroom break.
 			- [Raven](raven.md) tried to speak to the werewolves, but they seemed to be under some sort of compulsion or something, and insisted that everything was cool.
 		- [Smoof](smoof.md) mentioned that after the last 3 weeks the werewolves are just doing whatever the gargoyles do, even though they're previously enemies.
-		- We meet someone named [Kylana](kylana.md)
+		- We meet someone named [Kylana](kylana-ir-cannith.md)
 			- She's a captain of a space galleon that got attacked by the space shark.
 			- [Raven](raven.md) got a bit of a crush on her.
 			- She mentioned that there was a cave near the town that people were being secretive about. She sent her homunculus Wingnut to explore but they hadn't come back.
-				- She mentioned needing a gem of some sort to fix Wingnut. Raven pulled out a piece of quartz that had some red hair stuck in it. She had found it when fighting the manticores. Turns out that maybe it was [Kylana](kylana.md)'s hair, but we didn't explore that more.
+				- She mentioned needing a gem of some sort to fix Wingnut. Raven pulled out a piece of quartz that had some red hair stuck in it. She had found it when fighting the manticores. Turns out that maybe it was [Kylana](kylana-ir-cannith.md)'s hair, but we didn't explore that more.
 			- She was from [Eberron](eberron.md) via [Sigil](sigil.md). She mentioned a portal at the edge of [Vodonispace](vodonispace.md).
 			- She mentioned being an artificer and started talking about creating repeating crossbows, but got cut off.
 			- We agreed to have a dinner party with Udon Noodles and Cake.

@@ -25,8 +25,8 @@ tags:
 				- Sure. Just need to make a bargain ;)
 	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) went to talk to [Rudy](refuge-unit-d3.md) and give him a gift. It was a shield with a face on the front of it. The intention was to help him express his feelings a bit more. The face on the shield would change based on his mood.
 	- [Ravarel](ravarel-deshent.md) spoke with [Wyhan](wyhan.md). He expressed his misgivings about doing a heist in the [Nine Hells](the-nine-hells.md). He asked if she considered the Dragon Army of [Krynn](krynn.md) her enemy. She said yes. He asked if she would care about killing them to survive. [Wyhan](wyhan.md) was skeptical of hypotheticals. They debated a bit about souls. [Ravarel](ravarel-deshent.md) argued why would it be so bad to make [soul coins](soul-coins.md) from our enemies. [Wyhan](wyhan.md) argued that would be doing the work of [Raphael](raphael.md), not doing his own work.
-- [Raven](raven.md) and [Rudy](refuge-unit-d3.md) wrapped up their conversation with [Kylana](kylana.md) and went to find [Kez](kez-bardaux.md) and [Swan](swan.md).
-- [Kez](kez-bardaux.md) and [Swan](swan.md) chatted a bit about the gargoyles. [Swan](swan.md) said something about [Kez](kez-bardaux.md) not caring about finding allies like [Kylana](kylana.md).
+- [Raven](raven.md) and [Rudy](refuge-unit-d3.md) wrapped up their conversation with [Kylana](kylana-ir-cannith.md) and went to find [Kez](kez-bardaux.md) and [Swan](swan.md).
+- [Kez](kez-bardaux.md) and [Swan](swan.md) chatted a bit about the gargoyles. [Swan](swan.md) said something about [Kez](kez-bardaux.md) not caring about finding allies like [Kylana](kylana-ir-cannith.md).
 	- [Kez](kez-bardaux.md) got angry and said that was not was happening. He was upset that we made fun of him and didn't show him respect in public. This missing was extremely important to him.
 	- [Swan](swan.md) apologised. [Kez](kez-bardaux.md) said he felt like nobody cares. [Swan](swan.md) said we do care, but that we prefer to be light-hearted about the situation.
 - We went to visit [Kardin](kardin.md).

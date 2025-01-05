@@ -22,30 +22,35 @@ tags: []
 	- Make some nasi lemak
 - Talk to El'a about if she knows alchemy.
 - Complement Kez on the cloak he made.
-- [Kylana](kylana.md)
+- [Kylana](kylana-ir-cannith.md)
 	- Ask more about the quartz
 	- Dinner party with Udon and Cake.
 - Meet [Kardin](kardin.md) and ask for lycanthrope assistance.
 - Understand more about [Soul coins](soul-coins.md) (given [Ravarel](ravarel-deshent.md)'s situation)
 	- What would the standpoint of Ilmater be?
 	- Can a soul be saved?
+		- Soul coin heist? Should raven destroy a bunch or steal them or something?
 - Talk to [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) about his familiar.
 
 ## Tracking
 
-- Story points - 8
+- Story points - 14
 - [ ] Human heroic inspiration
-- [x] Misty step
+- [ ] Misty step
 - [ ] Bless
 - [ ] Healing Word
 - [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
 - [ ] Coat of the alibi
-	- [x] Charge
-	- [x] Charge
-	- [x] Charge
 	- [ ] Charge
 	- [ ] Charge
+	- [ ] Charge
+	- [ ] Charge
+	- [ ] Charge
+- [ ] Spirit board
+	- [ ] Charge
+	- [x] Charge
+	- [x] Charge
 
 ## Quests
 
@@ -69,5 +74,6 @@ tags: []
 
 ## Bastion special facilities
 
-- Sanctuary (on the SJ Bloodfrenzy)
-- Laboratory (on the nautiloid)
+- Sanctuary (on the [SJ Bloodfrenzy](sj-bloodfrenzy.md))
+- Laboratory (on [The Nautiloid](the-nautiloid.md))
+- Library (communal, on [SJ Bloodfrenzy](sj-bloodfrenzy.md))

@@ -2,7 +2,7 @@
 aliases:
   - Myla
 location: null
-origin: null
+origin: '[[metrol|Metrol]]'
 layout: layout.webc
 title: Myla
 campaignSlug: spelljammer-bebop
