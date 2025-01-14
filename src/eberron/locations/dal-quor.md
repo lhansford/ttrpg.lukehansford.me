@@ -1,17 +1,17 @@
 ---
-aliases: null
-in:
-  - '[[xaryxispace|Xaryxispace]]'
+aliases:
+  - Region of Dreams
+in: null
 layout: layout.webc
-title: Containment Facility 53
-campaignSlug: spelljammer-bebop
-campaignTitle: Spelljammer Bebop
+title: Dal Quor
+campaignSlug: eberron
+campaignTitle: Eberron
 tags:
   - locations
 ---
-# Containment Facility 53
+# Dal Quor
 
-![](Screenshot%202025-01-05%20at%2013.53.13.png)
+- Home of Quori.
 
 ## Contains
 ```dataview

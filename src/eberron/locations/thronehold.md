@@ -1,17 +1,16 @@
 ---
 aliases: null
-in:
-  - '[[xaryxispace|Xaryxispace]]'
+in: null
 layout: layout.webc
-title: Containment Facility 53
-campaignSlug: spelljammer-bebop
-campaignTitle: Spelljammer Bebop
+title: Thronehold
+campaignSlug: eberron
+campaignTitle: Eberron
 tags:
   - locations
 ---
-# Containment Facility 53
+# Thronehold
 
-![](Screenshot%202025-01-05%20at%2013.53.13.png)
+...
 
 ## Contains
 ```dataview

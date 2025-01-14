@@ -12,7 +12,7 @@ tags:
 ---
 # Kylana ir'Cannith
 
-![](Screenshot%202024-12-08%20at%2012.03.54.png)
+![|0x300](Screenshot%202024-12-08%20at%2012.03.54.png)
 
 - Artificer from Eberron.
 - She's a captain of a space galleon that got attacked by the space shark.

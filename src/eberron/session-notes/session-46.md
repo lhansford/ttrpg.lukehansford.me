@@ -25,16 +25,16 @@ tags:
 - [Peren](pcs/peren-ngintaku.md) suggested we kill them, but the other were hesitant.
 - [Bumbo](pcs/bumbo.md) took all their belongings, including the rings of mind shielding.
 - We decided to bring [Aan](npcs/aan-dphiarlan.md) in on it. [Shagaby](pcs/shagaby.md) went to fetch her.
-- [Peren](pcs/peren-ngintaku.md) searched the people for dragonmarks. [Ralsor](npcs/ralsor.md), [Annali](npcs/annali.md), and [Arbek](npcs/arbek.md) had marks of shadow. "The Shadow" had an abberant dragonmark that [Vidi](pcs/vidi-veni.md) recognised as a mark of House Vol, an ancient, dead bloodline from her homeland.
+- [Peren](pcs/peren-ngintaku.md) searched the people for dragonmarks. [Ralsor](npcs/ralsor.md), [Annali](npcs/annali.md), and [Arbek](npcs/arbek.md) had marks of shadow. ["The Shadow"](npcs/the-shadow.md) had an abberant dragonmark that [Vidi](pcs/vidi-veni.md) recognised as a mark of [House Vol](other/house-vol.md), an ancient, dead bloodline from her homeland.
 - [Aan](npcs/aan-dphiarlan.md) arrived and was surprised to see what was going on.
 	- We told them everything that happened.
 	- They mentioned she'd been keeping an eye on [Meg](npcs/meg.md). Meg came from a place where there were dream spirits that could follow people. She may have had a Quori spirit within her.
-	- They said it sounded like we were transported to Dalkor, the realm of dreams in Xoriat.
-	- We found a letter in [Ralsor](npcs/ralsor.md)'s confirming the connection to House Thuranni, but nothing specifically about the assassination.
+	- They said it sounded like we were transported to [Dal Quor](locations/dal-quor.md), the realm of dreams.
+	- We found a letter in [Ralsor](npcs/ralsor.md)'s confirming the connection to [House Thuranni](other/house-thuranni.md), but nothing specifically about the assassination.
 - [Forgettable](pcs/forgettable.md) cast speak with dead so [Rowan](pcs/thea.md) could speak to [Meg](npcs/meg.md).
 	- "How long have you had the assignment to kill me?"
 		- "I didn't want to, but ever since you left town the first time."
-	- "What happened to Keith's body?"
+	- "What happened to [[Kyle]]'s body?"
 		- "It was taken to the mournland. To be disposed of and not be associated with our work. Not get a proper burial. Dread Metrol."
 	- "What unfinished business do you have?"
 		- "The farm. They harbour abberants, things that should not exist. They prepare for a wedding."

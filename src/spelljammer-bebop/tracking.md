@@ -17,7 +17,6 @@ tags: []
 	- Get his soul coin back, also prevent him harvesting souls.
 	- [Xedalli](princess-xedalli.md) knows of someone called "The Stranger" who may know Raphael's true name.
 - Expand the book prison.
-- Craft some alchemists fire.
 - Party
 	- Make some nasi lemak
 - Talk to El'a about if she knows alchemy.
@@ -25,7 +24,6 @@ tags: []
 - [Kylana](kylana-ir-cannith.md)
 	- Ask more about the quartz
 	- Dinner party with Udon and Cake.
-- Meet [Kardin](kardin.md) and ask for lycanthrope assistance.
 - Understand more about [Soul coins](soul-coins.md) (given [Ravarel](ravarel-deshent.md)'s situation)
 	- What would the standpoint of Ilmater be?
 	- Can a soul be saved?
@@ -35,10 +33,13 @@ tags: []
 ## Tracking
 
 - Story points - 14
+- Max 5 hp / Fear save adv.
+- Scroll of revivify
 - [ ] Human heroic inspiration
 - [ ] Misty step
 - [ ] Bless
 - [ ] Healing Word
+- [ ] Spell charm - healing word
 - [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
 - [ ] Coat of the alibi
@@ -48,7 +49,7 @@ tags: []
 	- [ ] Charge
 	- [ ] Charge
 - [ ] Spirit board
-	- [ ] Charge
+	- [x] Charge
 	- [x] Charge
 	- [x] Charge
 
@@ -59,7 +60,6 @@ tags: []
 	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
 - Bring [Double Dux](dubbuldux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
 - [Xedalli](princess-xedalli.md) wants us to help her fight [Prince Xeleth](prince-xeleth.md).
-	- Enlist the help of the Lycanthrope groups of [Zalani](zalani.md) and their Hunter spelljammers.
 
 ## Personal goals
 

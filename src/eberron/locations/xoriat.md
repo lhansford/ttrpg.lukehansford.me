@@ -1,17 +1,19 @@
 ---
-aliases: null
-in:
-  - '[[xaryxispace|Xaryxispace]]'
+aliases:
+  - Realm of Madness
+  - PoM
+  - Plane of Madness
+in: null
 layout: layout.webc
-title: Containment Facility 53
-campaignSlug: spelljammer-bebop
-campaignTitle: Spelljammer Bebop
+title: Xoriat
+campaignSlug: eberron
+campaignTitle: Eberron
 tags:
   - locations
 ---
-# Containment Facility 53
+# Xoriat
 
-![](Screenshot%202025-01-05%20at%2013.53.13.png)
+...
 
 ## Contains
 ```dataview

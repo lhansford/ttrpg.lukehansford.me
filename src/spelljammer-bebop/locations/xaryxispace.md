@@ -1,7 +1,6 @@
 ---
 aliases: null
-in:
-  - '[[xaryxispace|Xaryxispace]]'
+in: []
 layout: layout.webc
 title: Xaryxispace
 campaignSlug: spelljammer-bebop

@@ -1,5 +1,6 @@
 ---
-aliases: null
+aliases:
+  - The Forgotten Prince
 location: null
 origin: null
 layout: layout.webc

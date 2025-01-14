@@ -1,7 +1,7 @@
 ---
 aliases:
   - Vidi
-origin: null
+origin: '[[locations/aeranal|Aeranal]]'
 player: Ahloren
 layout: layout.webc
 title: Vidi Veni

@@ -74,11 +74,11 @@ tags:
 	- Lots of traps, lots of sensors, glyphs, golems and drones, and a number of high-level wizards.
 	- Sources say there are 6 individuals of interest calling the place home:
 		- General Thaylinn, the superintendent of the prison.
-			- [Kez](kez-bardaux.md) new this person as highly ruthless and highly unethical.
+			- [Kez](kez-bardaux.md) knew this person as highly ruthless and highly unethical.
 		- Warden Golmook
 			- Yakfolk hailing from [Toril](toril.md). A dreadful warlord. Single handedly took down a colony of fire giants.
 		- Highmage Valray. A Xyraxian mage.
 		- Associate Warden Parsek. An arcanaloth, with powerful magic.
-		- Vaskir ???, a human from [Toril](toril.md). Second in command to Zulkir ???, a Red Wizard of Thay.
+		- Vaskir ???, a human from [Toril](toril.md). Second in command to a Zulkir, a Red Wizard of Thay.
 		- [Dubbuldux](dubbuldux.md). 
 	- We have two weeks to arrive there (two bastion turns).

@@ -10,9 +10,9 @@ tags: []
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 8 pts
+	- [ ] 6 pts
 - [ ] Magic missile wand
-	- [x] Charge
+	- [ ] Charge
 	- [ ] Charge
 	- [ ] Charge
 	- [ ] Charge
@@ -32,19 +32,17 @@ tags: []
 	- Either a wink or say something like "Magic shit!"
 - Need to contact [Boroman Ir'Dayne](npcs/boroman-irdayne.md) at 8pm every night on the sending stones.
 - New abilities to RP
-	- Spirit Shroud
+	- Water breathing
+		- Brew tea with special leaves, but arrange the leaves in a special way.
 - Give feedback to Cadoras about the Wand of Dry Cleaning.
 - Get Octarine Dragonshard back from Karliss.
 - Fishing rod from Vidi
-- Tracking
-	- Incapacitated
+
 ## Quests
 
-- Stop assassination in [Ardev](locations/ardev.md).
-	- Find Sanara and the 5 people she's working with.
 - Find the scrying artefact in [Ardev](locations/ardev.md).
 	-  Talk to Orrin about the submarine
-- Investigate the cult at Hoffsteader Ranch.
+	- Sunken temple in the silver lake.
 
 ## Personal goals
 
