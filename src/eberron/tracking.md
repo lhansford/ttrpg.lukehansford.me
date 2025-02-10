@@ -10,7 +10,7 @@ tags: []
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 6 pts
+	- [ ] 12 pts
 - [ ] Magic missile wand
 	- [ ] Charge
 	- [ ] Charge

@@ -14,3 +14,4 @@ tags:
 - Devil.
 - Has [Ravarel](ravarel-deshent.md)'s soul coin.
 - Sired by [Mephistopheles](mephistopheles.md).
+-  His true name is "the sounds of three acorns being crunched between teeth".

@@ -35,16 +35,15 @@ tags:
 		- We said we could take him that direction.
 	- Sal was on the ship to see [Bumbo](pcs/bumbo.md).
 		- They spoke in private.
-		- Bumbo told him about the gatekeepers, turning into a jellyfish, etc.
+		- [Bumbo](pcs/bumbo.md) told him about the gatekeepers, turning into a jellyfish, etc.
 		- He also said he was forgetting things and couldn't stop drawing this:
 			- ![|0x200](_files/Pasted%20image%2020250107130725.png)
-		- Sal seemed skeptical of Bumbo's committment. He mentioned something about a brother Billip.
+		- Sal seemed skeptical of Bumbo's committment. He mentioned something about a brother Billip. He also has a son, Biggin.
 		- Sal asked about the rest of the group. Bumbo was hesitant to say anything. He mentioned us clashing with [House Thuranni](other/house-thuranni.md). He mentioned the mark of death we saw as well, but Sal was skeptical.
 		- Sal mentioned they're working for the Kingdom of Darkhan.
 		- Sal said that [Forgettable](pcs/forgettable.md) was actually [Kyle](npcs/kyle.md).
 		- Sal told Bumbo he needs to find a crystal ball in the Sunken Temple, or maybe that the cultists in the woods have it?
-		- Bumbo has a son?
-- [Forgettable](pcs/forgettable.md) prayed to the Queen of Death. She said he needs to return to her, he's an accounting error, and "see you in 6 hours, say your goodbyes".
+- [Forgettable](pcs/forgettable.md) prayed to [The Queen of Death](other/the-queen-of-the-dead.md). She said he needs to return to her, he's an accounting error, and "see you in 6 hours, say your goodbyes".
 	- [Forgettable](pcs/forgettable.md) told this to the rest of the group.
 - We all spoke with [Sal](npcs/sal.md).
 	- He told us [Forgettable](pcs/forgettable.md) was [Kyle](npcs/kyle.md).

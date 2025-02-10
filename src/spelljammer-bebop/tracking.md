@@ -28,19 +28,23 @@ tags: []
 	- What would the standpoint of Ilmater be?
 	- Can a soul be saved?
 		- Soul coin heist? Should raven destroy a bunch or steal them or something?
-- Talk to [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) about his familiar.
+- Got a sending stone off of Parsec's desk, need to know where it connects to.
+- NOTE that radiant beam is upgraded and pretty kickass now.
+- Speak with Vraxil
+- Decide what to attune.
 
 ## Tracking
 
 - Story points - 14
 - Max 5 hp / Fear save adv.
 - Scroll of revivify
-- [ ] Human heroic inspiration
+- Fruit of lesser restoration.
+- [x] Human heroic inspiration
 - [ ] Misty step
 - [ ] Bless
 - [ ] Healing Word
 - [ ] Spell charm - healing word
-- [ ] Mage Slayer - Guarded Mind
+- [x] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
 - [ ] Coat of the alibi
 	- [ ] Charge

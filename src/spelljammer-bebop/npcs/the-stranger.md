@@ -10,3 +10,5 @@ tags:
   - npcs
 ---
 # The Stranger
+
+![](Screenshot%202025-01-19%20at%2012.32.00.png)
