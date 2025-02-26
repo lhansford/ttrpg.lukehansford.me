@@ -29,35 +29,37 @@ tags: []
 	- Can a soul be saved?
 		- Soul coin heist? Should raven destroy a bunch or steal them or something?
 - Got a sending stone off of Parsec's desk, need to know where it connects to.
-- NOTE that radiant beam is upgraded and pretty kickass now.now.
-- Speak with Vraxil
-- Decide what to attune.
+- NOTE that radiant beam is upgraded and pretty kickass now
 - Research the sword. Who's was it?
 - Chat with Kez about our differing moralities.
+- WHY IS MY HP DIFFERENT BETWEEN BEYOND AND FORGE?
 
 ## Tracking
 
-- Story points - 14
-- Max 5 hp / Fear save adv.
+- Story points - 8
 - Scroll of revivify
 - Fruit of lesser restoration.
 - [x] Human heroic inspiration
-- [ ] Misty step
+- [x] Misty step
 - [ ] Bless
-- [ ] Healing Word
+- [x] Healing Word
 - [ ] Spell charm - healing word
-- [x] Mage Slayer - Guarded Mind
+- [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
 - [ ] Coat of the alibi
-	- [ ] Charge
+	- [x] Charge
 	- [ ] Charge
 	- [ ] Charge
 	- [ ] Charge
 	- [ ] Charge
 - [ ] Spirit board
+	- [ ] Charge
 	- [x] Charge
 	- [x] Charge
+- [ ] Enspelled blade
 	- [x] Charge
+	- [ ] Charge
+	- [ ] Charge
 
 ## Quests
 
@@ -66,6 +68,7 @@ tags: []
 	- We also need to get some for [Yarnak's Dwarven Arms](locations/yarnaks-dwarven-arms.md).
 - Bring [Double Dux](dubbuldux.md)'s head (brain and head intact) to [M'weru](npcs/mweru.md) for 9000gp.
 - [Xedalli](princess-xedalli.md) wants us to help her fight [Prince Xeleth](prince-xeleth.md).
+- Return [Vraxil](vraxil-of-the-twilight.md) to the [Bright Desert](bright-desert.md).
 
 ## Personal goals
 
