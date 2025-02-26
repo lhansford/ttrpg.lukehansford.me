@@ -10,7 +10,7 @@ tags: []
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 12 pts
+	- [ ] 8 pts
 - [ ] Magic missile wand
 	- [ ] Charge
 	- [ ] Charge
@@ -20,6 +20,7 @@ tags: []
 	- [ ] Charge
 	- [ ] Charge
 - [x] Heroic inspiration from Shagaby (for the day)
+- [ ] 15 temp hp
 
 ## Todo
 
@@ -32,17 +33,21 @@ tags: []
 	- Either a wink or say something like "Magic shit!"
 - Need to contact [Boroman Ir'Dayne](npcs/boroman-irdayne.md) at 8pm every night on the sending stones.
 - New abilities to RP
+	- Spirit Shroud
 	- Water breathing
 		- Brew tea with special leaves, but arrange the leaves in a special way.
+	- Psychic lance
 - Give feedback to Cadoras about the Wand of Dry Cleaning.
 - Get Octarine Dragonshard back from Karliss.
 - Fishing rod from Vidi
-
+- Combat
+	- Vexed on Huntress
 ## Quests
 
 - Find the scrying artefact in [Ardev](locations/ardev.md).
 	-  Talk to Orrin about the submarine
 	- Sunken temple in the silver lake.
+- Investigate the cult at Hoffsteader Ranch.
 
 ## Personal goals
 
