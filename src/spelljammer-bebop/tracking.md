@@ -16,7 +16,6 @@ tags: []
 - Help Ravarel's devil situation.
 	- Get his soul coin back, also prevent him harvesting souls.
 	- [Xedalli](princess-xedalli.md) knows of someone called "The Stranger" who may know Raphael's true name.
-- Expand the book prison.
 - Party
 	- Make some nasi lemak
 - Talk to El'a about if she knows alchemy.
@@ -29,37 +28,46 @@ tags: []
 	- Can a soul be saved?
 		- Soul coin heist? Should raven destroy a bunch or steal them or something?
 - Got a sending stone off of Parsec's desk, need to know where it connects to.
-- NOTE that radiant beam is upgraded and pretty kickass now
 - Research the sword. Who's was it?
 - Chat with Kez about our differing moralities.
-- WHY IS MY HP DIFFERENT BETWEEN BEYOND AND FORGE?
+	- He used to be an assassin? Raven doesn't know that, but we could bond on it somehow.
+- Research [Vraxil](vraxil-of-the-twilight.md).
+- Decide what to do with the Gloves of Swimming and Climbing.
+- Learn about the dead god Havok
+- To RP:
+	- Sudden Illumination
+	- Devious Strikes
+- Make "intimigate" a thing.
+- Call Tasha, Miss Tasha
+- Get spell scrolls
 
 ## Tracking
 
-- Story points - 8
+- Story points - 14
 - Scroll of revivify
-- Fruit of lesser restoration.
 - [x] Human heroic inspiration
 - [x] Misty step
 - [ ] Bless
 - [x] Healing Word
-- [ ] Spell charm - healing word
 - [ ] Mage Slayer - Guarded Mind
 - [ ] 11 uses of dust of dryness
 - [ ] Coat of the alibi
 	- [x] Charge
-	- [ ] Charge
-	- [ ] Charge
-	- [ ] Charge
-	- [ ] Charge
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
+	- [x] Charge
 - [ ] Spirit board
 	- [ ] Charge
-	- [x] Charge
-	- [x] Charge
+	- [ ] Charge
+	- [ ] Charge
 - [ ] Enspelled blade
 	- [x] Charge
-	- [ ] Charge
-	- [ ] Charge
+	- [x] Charge
+	- [x] Charge
+- [ ] Mark of the Sailor
+	- [x] Charge
+- [x] Ravarel's heroic inspo
 
 ## Quests
 
@@ -73,8 +81,7 @@ tags: []
 ## Personal goals
 
 - Wizard kill list
-	- Her summoner
-	- [Double Dux](dubbuldux.md)
+	- Her summoner / [Dubbuldux](dubbuldux.md)
 	- [Tasha](npcs/tasha.md)
 	- [Santhi Ozul](npcs/santhi-ozul.md) (the wizard from the haunted house in [Faerûn](locations/faerun.md))
 	- [Borgol Kirdis](npcs/borgol-kirdis.md)

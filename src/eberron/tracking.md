@@ -10,7 +10,7 @@ tags: []
 ## Tracking
 
 - [ ] Story inspiration (max 14)
-	- [ ] 10 pts
+	- [ ] 8 pts
 - [ ] Magic missile wand
 	- [ ] Charge
 	- [ ] Charge
@@ -37,12 +37,14 @@ tags: []
 - Give feedback to Cadoras about the Wand of Dry Cleaning.
 - Get Octarine Dragonshard back from Karliss.
 - Fishing rod from Vidi
+- Deal with [Thea](pcs/thea.md) having a cursed weapon
+- Beef with [Forgettable](pcs/forgettable.md) about The Church of The Silver Flame
+- Combat:
+	- Bladesinging
 
 ## Quests
 
-- Find the scrying artefact in [Ardev](locations/ardev.md).
-	- Talk to Orrin about the submarine
-	- Sunken temple in the silver lake.
+- ?
 
 ## Personal goals
 
@@ -68,7 +70,7 @@ tags: []
 | Investigation   | Vidi (+9)        | Thea (+3, Eye for detail) |
 | Medicine        |                  |                           |
 | Nature          | Peren (+5)       |                           |
-| Perception      | Shagaby (+8)     | Forgettable (+6)          |
+| Perception      | Elston (+11)     | Shagaby (+8)              |
 | Performance     |                  |                           |
 | Persuasion      |                  |                           |
 | Religion        |                  |                           |

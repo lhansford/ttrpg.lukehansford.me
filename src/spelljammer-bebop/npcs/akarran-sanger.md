@@ -1,5 +1,6 @@
 ---
-aliases: null
+aliases:
+  - Akarran
 location: '[[the-radiant-citadel|The Radiant Citadel]]'
 origin: null
 layout: layout.webc

@@ -38,7 +38,7 @@ That violence can end suffering.
 - **Freedom**. Better to die free than to live in chains. (Personal ideal)
 - **Compassion**. Halt and relieve the suffering of others, and take it on yourself if you must. (Ilmater ideal)
 - **Forgiving.** I'm not opposed to spilling blood, but I'll try to avoid harming people too much if there's a chance they'll repent.
-	- This is something Raven strives for, but in practice shes a bit hot-headed.
+	- This is something Raven strives for, but in practice she's a bit hot-headed.
 	- She doesn't really care about ideas of Justice or Vengeance. Except maybe when it comes to wizards.
 ### Bonds
 
@@ -74,6 +74,16 @@ That violence can end suffering.
 
 - Two curved short blades with raven feathers extending from the hilts.
 - A pair of [sai](<https://en.wikipedia.org/wiki/Sai_(weapon)>) for non-lethal combat.
+
+### Tattoos
+
+- All stick and poke
+	- Teardrop under right eye
+	- Right arm
+		- Mark of the Resistance on the inside of forearm
+		- Hands of Ilmater across shoulder
+	- Left arm
+		- Mark of the Sailor across shoulder
 
 ## Voice
 
@@ -125,3 +135,14 @@ That violence can end suffering.
 		- Studded leather
 		- 3 more shortswords (1 kukri, 2 sais)
 			- Or should the sais just be daggers, but bludgeoning?
+
+## Levelling
+
+- 13
+	- Sudden Illumination
+- 14
+	- Start using devious strikes
+- 15
+- 16
+	- Boon
+	- ASI
