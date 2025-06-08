@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[new-evermeet|New Evermeet]]'
+location: '[New Evermeet](locations/new-evermeet.md)'
 origin: null
 layout: layout.webc
 title: Gantar
@@ -11,4 +11,4 @@ tags:
 ---
 # Gantar
 
-- Astral elf who helped us out in [New Evermeet](new-evermeet.md).
+- Astral elf who helped us out in [New Evermeet](locations/new-evermeet.md).

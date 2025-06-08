@@ -14,5 +14,5 @@ tags:
 - Leader of the Eternal Shields mercenary group, defected from the Armada.
 - He's on a moon of En in Doomspace called "Aarun", being "hunted by trees".
 - Bit of a scholar, good with a musket
-- Old friend of [Princess](princess-xedalli.md).
+- Old friend of [Princess](npcs/princess-xedalli.md).
 - 

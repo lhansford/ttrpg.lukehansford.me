@@ -2,7 +2,7 @@
 aliases:
   - Coliar
 in:
-  - '[[locations/realmspace|realmspace]]'
+  - '[realmspace](locations/realmspace.md)'
 layout: layout.webc
 title: Coliar
 campaignSlug: spelljammer-bebop
@@ -18,5 +18,5 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [coliar](locations/coliar.md))
 ```

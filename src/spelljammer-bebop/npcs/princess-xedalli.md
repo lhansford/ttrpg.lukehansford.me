@@ -2,7 +2,7 @@
 aliases:
   - Princess
   - Xedalli
-location: '[[new-evermeet|New Evermeet]]'
+location: '[New Evermeet](locations/new-evermeet.md)'
 origin: null
 layout: layout.webc
 title: Princess Xedalli
@@ -13,7 +13,7 @@ tags:
 ---
 # Princess Xedalli
 
-![](Pasted%20image%2020240721113321.png)
+![Pasted image 20240721113321](_files/Pasted%20image%2020240721113321.png)
 
 - Normally she has gold eyes, but they change slightly to red when shes angry.
 - Drink of choice is Everquist.

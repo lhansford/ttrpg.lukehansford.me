@@ -16,19 +16,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [new-evermeet](locations/new-evermeet.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [new-evermeet](locations/new-evermeet.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [new-evermeet](locations/new-evermeet.md))
 ```

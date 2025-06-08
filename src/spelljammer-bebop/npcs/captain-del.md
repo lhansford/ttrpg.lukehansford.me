@@ -1,7 +1,7 @@
 ---
 aliases:
   - Del
-location: '[[other/the-second-wind|The Second Wind]]'
+location: '[The Second Wind](other/the-second-wind)'
 origin: null
 layout: layout.webc
 title: Captain Del

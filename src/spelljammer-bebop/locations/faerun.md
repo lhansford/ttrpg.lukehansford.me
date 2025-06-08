@@ -3,7 +3,7 @@ aliases:
   - Faerun
   - Faerûn
 in:
-  - '[[locations/toril|Toril]]'
+  - '[Toril](locations/toril.md)'
 layout: layout.webc
 title: Faerûn
 campaignSlug: spelljammer-bebop
@@ -19,5 +19,5 @@ A continent on Toril.
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [faerun](locations/faerun.md))
 ```

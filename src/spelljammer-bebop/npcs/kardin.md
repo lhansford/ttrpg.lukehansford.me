@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[lycanvine|Lycanvine]]'
+location: '[Lycanvine](locations/lycanvine.md)'
 origin: null
 layout: layout.webc
 title: Kardin
@@ -11,9 +11,9 @@ tags:
 ---
 # Kardin
 
-![](Screenshot%202024-12-08%20at%2012.18.50.png)
+![Screenshot 2024-12-08 at 12.18.50](_files/Screenshot%202024-12-08%20at%2012.18.50.png)
 
-- Werewolf, leader of [Lycanvine](lycanvine.md).
-- Known by [Princess Xedalli](princess-xedalli.md).
+- Werewolf, leader of [Lycanvine](locations/lycanvine.md).
+- Known by [Princess Xedalli](npcs/princess-xedalli.md).
 - Has some hunter-class spelljammers at his disposal
 - 

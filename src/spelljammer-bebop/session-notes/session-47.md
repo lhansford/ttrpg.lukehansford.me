@@ -11,6 +11,6 @@ tags:
 # Session 47 (2024-10-13)
 
 - We started combat with LhamValosFelAtar
-- [Swan](swan.md) tried to parlay but it failed. She went down.
+- [Swan](pcs/swan.md) tried to parlay but it failed. She went down.
 - Raven was bitten by a werewolf but used her abilities to shake off the curse.
 - 

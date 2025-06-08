@@ -9,4 +9,4 @@ tags:
 # Otyugh
 
 - AKA a trash compactor.
-- We were tasked with hunting down one in the sewers of [[locations/the-rock-of-bral|Bral]].
+- We were tasked with hunting down one in the sewers of [Bral](locations/the-rock-of-bral.md).

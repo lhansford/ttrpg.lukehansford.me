@@ -1,7 +1,7 @@
 ---
 aliases:
   - Borgol Kirdis
-location: '[[locations/mulsantir|Mulsantir]]'
+location: '[Mulsantir](locations/mulsantir.md)'
 origin: null
 layout: layout.webc
 title: Borgol Kirdis
@@ -12,5 +12,5 @@ tags:
 ---
 # Borgol Kirdis
 
-- A wizard shopkeeper we encountered outside of [[locations/mulsantir]].
-- Most likely part of [[other/the-red-wizards]].
+- A wizard shopkeeper we encountered outside of [mulsantir](locations/mulsantir.md).
+- Most likely part of [the-red-wizards](other/the-red-wizards.md).

@@ -11,6 +11,6 @@ tags:
 ---
 # Alistar
 
-![](Screenshot%202024-12-08%20at%2012.20.26.png)
+![Screenshot 2024-12-08 at 12.20.26](_files/Screenshot%202024-12-08%20at%2012.20.26.png)
 
 - Minotaur we fought in the Bloodsport Arena

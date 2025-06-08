@@ -11,4 +11,4 @@ tags:
 ---
 # Vocath
 
-![|0x300](Screenshot%202024-07-28%20at%2011.11.30.png)
+![|0x300](_files/Screenshot%202024-07-28%20at%2011.11.30.png)

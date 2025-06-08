@@ -11,7 +11,7 @@ tags:
 ---
 # Vera Woodstone
 
-![|0x300](Screenshot%202024-04-07%20at%2011.35.11.png)
+![|0x300](_files/Screenshot%202024-04-07%20at%2011.35.11.png)
 
 
 

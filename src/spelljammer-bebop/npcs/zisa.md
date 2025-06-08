@@ -12,4 +12,4 @@ tags:
 # Zisa
 
 - Consort of Tyr.
-- Patron of [Kez](kez-bardaux.md).
+- Patron of [Kez](pcs/kez-bardaux.md).

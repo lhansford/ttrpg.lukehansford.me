@@ -1,7 +1,7 @@
 ---
 aliases:
   - Alustriel
-location: '[[sigil|Sigil]]'
+location: '[Sigil](locations/sigil.md)'
 origin: null
 layout: layout.webc
 title: Alustriel Silverhand
@@ -12,5 +12,5 @@ tags:
 ---
 # Alustriel Silverhand
 
-![0x300|](Screenshot%202025-03-16%20at%2010.12.17.png)
+![0x300|](_files/Screenshot%202025-03-16%20at%2010.12.17.png)
 - 

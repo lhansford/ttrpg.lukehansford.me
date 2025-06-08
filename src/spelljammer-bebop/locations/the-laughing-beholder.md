@@ -1,6 +1,6 @@
 ---
 in:
-  - '[[locations/the-rock-of-bral|The Rock of Bral]]'
+  - '[The Rock of Bral](locations/the-rock-of-bral.md)'
 aliases:
   - The Laughing Beholder
 layout: layout.webc
@@ -18,5 +18,5 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [the-laughing-beholder](locations/the-laughing-beholder.md))
 ```

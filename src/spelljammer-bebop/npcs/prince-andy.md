@@ -11,4 +11,4 @@ tags:
 ---
 # Prince Andy
 
-- Ruler of [[the-rock-of-bral|Bral]]
+- Ruler of [Bral](locations/the-rock-of-bral.md)

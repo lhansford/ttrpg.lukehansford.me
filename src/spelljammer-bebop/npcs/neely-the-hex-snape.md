@@ -12,7 +12,7 @@ tags:
 ---
 # Nealie "the Hex" Snape
 
-![|0x300](Screenshot%202024-04-07%20at%2011.16.15.png)
+![|0x300](_files/Screenshot%202024-04-07%20at%2011.16.15.png)
 
 - Wanted for swindling
 - Had an encounter with a gentleman (brother of the owner of the Elfsong Tavern). She might have killed him, though not confirmed.

@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[vodonispace|Vodonispace]]'
+  - '[Vodonispace](locations/vodonispace.md)'
 layout: layout.webc
 title: Zalani
 campaignSlug: spelljammer-bebop
@@ -17,19 +17,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [zalani](locations/zalani.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [zalani](locations/zalani.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [zalani](locations/zalani.md))
 ```

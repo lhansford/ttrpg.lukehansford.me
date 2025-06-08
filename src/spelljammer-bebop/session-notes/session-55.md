@@ -1,8 +1,8 @@
 ---
 locations:
-  - '[[Lycanvine]]'
-  - '[[vodonispace|Vodonispace]]'
-  - '[[zalani|Zalani]]'
+  - '[lycanvine](locations/lycanvine.md)'
+  - '[Vodonispace](locations/vodonispace.md)'
+  - '[Zalani](locations/zalani.md)'
 date: 2024-12-15T00:00:00.000Z
 layout: layout.webc
 title: Session 55 (2024-12-15)
@@ -13,12 +13,12 @@ tags:
 ---
 # Session 55 (2024-12-15)
 
-- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) decided to sneak ahead and see what was down the river, but was immediately spotted by some gargoyles and "spore chonks".
+- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) decided to sneak ahead and see what was down the river, but was immediately spotted by some gargoyles and "spore chonks".
 - The rest of the group swam up to join the fight.
 	- A cloud of spores erupted from the wall and attacked us.
-	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) went down in the middle of the river, but [Raven](raven.md) managed to revive him.
+	- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) went down in the middle of the river, but [Raven](pcs/raven.md) managed to revive him.
 	- We managed to defeat the creatures.
-- [Raven](raven.md) looked around for Wingnut, but saw no sign. She did see a door which she immediately opened. Behind the door were three gargoyles, including Commander [Nozuun](nozuun.md).
-	- One of the gargoyles closed the door. We readied up, but [Nozuun](nozuun.md) snuck through a backdoor and started attacking [Ravarel](ravarel-deshent.md).
-	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) summoned the troutlord.
+- [Raven](pcs/raven.md) looked around for Wingnut, but saw no sign. She did see a door which she immediately opened. Behind the door were three gargoyles, including Commander [Nozuun](npcs/nozuun.md).
+	- One of the gargoyles closed the door. We readied up, but [Nozuun](npcs/nozuun.md) snuck through a backdoor and started attacking [Ravarel](pcs/ravarel-deshent.md).
+	- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) summoned the troutlord.
 	- 

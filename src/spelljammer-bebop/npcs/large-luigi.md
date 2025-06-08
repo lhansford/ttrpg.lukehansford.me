@@ -12,4 +12,4 @@ tags:
 ---
 # Large Luigi
 
-- Runs [[locations/the-laughing-beholder]].
+- Runs [the-laughing-beholder](locations/the-laughing-beholder.md).

@@ -11,6 +11,6 @@ tags:
 ---
 # Grimzen Gargenhale
 
-- Rumored to be in [Realmspace](realmspace.md).
-- Has an ex, Tupela, who has an observatory in [Realmspace](realmspace.md) near Glith.
+- Rumored to be in [Realmspace](locations/realmspace.md).
+- Has an ex, Tupela, who has an observatory in [Realmspace](locations/realmspace.md) near Glith.
 - 

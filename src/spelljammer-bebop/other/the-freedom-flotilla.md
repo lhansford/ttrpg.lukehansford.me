@@ -10,6 +10,6 @@ tags:
 # The Freedom Flotilla
 
 - Ships
-	- [SJ Bloodfrenzy](sj-bloodfrenzy.md)
-	- [Mothy](mothy.md)
-	- [The Nautiloid](the-nautiloid.md)
+	- [SJ Bloodfrenzy](other/sj-bloodfrenzy.md)
+	- [Mothy](other/mothy.md)
+	- [The Nautiloid](other/the-nautiloid.md)

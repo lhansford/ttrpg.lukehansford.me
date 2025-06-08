@@ -1,6 +1,8 @@
 ---
 aliases:
   - Tasha
+  - Queen of the Arcane
+  - Iggwilv
 location: null
 origin: null
 layout: layout.webc
@@ -11,5 +13,5 @@ tags:
   - npcs
 ---
 # Tasha
-- Most likely in [[locations/sigil]]
-- [[pcs/swan]] is visibly uncomfortable about talk of her.
+- Most likely in [sigil](locations/sigil.md)
+- [swan](pcs/swan.md) is visibly uncomfortable about talk of her.

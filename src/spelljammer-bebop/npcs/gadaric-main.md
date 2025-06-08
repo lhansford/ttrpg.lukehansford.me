@@ -1,7 +1,7 @@
 ---
 aliases:
   - Gadaric
-location: '[[locations/the-rock-of-bral|Bral]]'
+location: '[Bral](locations/the-rock-of-bral.md)'
 origin: null
 layout: layout.webc
 title: Gadaric Main
@@ -12,4 +12,4 @@ tags:
 ---
 # Gadaric Main
 
-- Steward to [Prince Andy](prince-andy.md)
+- Steward to [Prince Andy](npcs/prince-andy.md)

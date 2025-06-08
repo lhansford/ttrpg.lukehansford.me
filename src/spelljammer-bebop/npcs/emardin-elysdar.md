@@ -12,4 +12,4 @@ tags:
 ---
 # Emardin Elysdar
 
-- High Admiral of [New Evermeet](new-evermeet.md).
+- High Admiral of [New Evermeet](locations/new-evermeet.md).

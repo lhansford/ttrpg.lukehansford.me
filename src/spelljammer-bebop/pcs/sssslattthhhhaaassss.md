@@ -2,7 +2,7 @@
 aliases:
   - Sssslattthhhhaaassss
   - Coleslaw
-origin: '[[toril|Toril]]'
+origin: '[Toril](locations/toril.md)'
 player: null
 layout: layout.webc
 title: Sssslattthhhhaaassss

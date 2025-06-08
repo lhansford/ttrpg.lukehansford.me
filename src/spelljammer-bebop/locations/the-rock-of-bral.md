@@ -4,7 +4,7 @@ aliases:
   - The Rock
   - The Rock of Bral
 in:
-  - '[[locations/realmspace|Realmspace]]'
+  - '[Realmspace](locations/realmspace.md)'
 layout: layout.webc
 title: The Rock of Bral
 campaignSlug: spelljammer-bebop
@@ -20,5 +20,5 @@ Rotating asteroid. Floats around in Realmspace.
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [the-rock-of-bral](locations/the-rock-of-bral.md))
 ```

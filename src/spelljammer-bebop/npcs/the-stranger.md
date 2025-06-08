@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[containment-facility-53|Containment Facility 53]]'
+location: '[Containment Facility 53](locations/containment-facility-53.md)'
 origin: null
 layout: layout.webc
 title: The Stranger
@@ -11,4 +11,4 @@ tags:
 ---
 # The Stranger
 
-![](Screenshot%202025-01-19%20at%2012.32.00.png)
+![Screenshot 2025-01-19 at 12.32.00](_files/Screenshot%202025-01-19%20at%2012.32.00.png)

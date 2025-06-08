@@ -12,4 +12,4 @@ tags:
 ---
 # Anna
 
-A ghost we encountered in the haunted wizard's mansion on [[locations/faerun]].
+A ghost we encountered in the haunted wizard's mansion on [faerun](locations/faerun.md).

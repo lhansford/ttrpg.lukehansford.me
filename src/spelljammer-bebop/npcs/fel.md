@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[sigil|Sigil]]'
+location: '[Sigil](locations/sigil.md)'
 origin: null
 layout: layout.webc
 title: Fel
@@ -11,6 +11,6 @@ tags:
 ---
 # Fel
 
-- Only known by [Rudy](refuge-unit-d3.md) as of [Session 58 (2025-01-05)](session-58.md).
-	- Tiefling tatooist in [Sigil](sigil.md).
-	- Friend of [Kylana](kylana-ir-cannith.md).
+- Only known by [Rudy](pcs/refuge-unit-d3.md) as of [Session 58 (2025-01-05)](2025-01-05)).
+	- Tiefling tatooist in [Sigil](locations/sigil.md).
+	- Friend of [Kylana](npcs/kylana-ir-cannith.md).

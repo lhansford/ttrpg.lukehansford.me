@@ -11,5 +11,5 @@ tags:
 # Harpers
 ## Known members
 
-- [[npcs/jaheira]]
-- [[npcs/edgin-darvis]]
+- [jaheira](npcs/jaheira.md)
+- [edgin-darvis](npcs/edgin-darvis.md)

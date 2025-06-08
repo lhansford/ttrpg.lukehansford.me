@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[kalaman|Kalaman]]'
+location: '[Kalaman](locations/kalaman.md)'
 origin: null
 layout: layout.webc
 title: Dovghest Arguhl
@@ -11,4 +11,4 @@ tags:
 ---
 # Dovghest Arguhl
 
-- Red wizard stationed in [Kalaman](kalaman.md).
+- Red wizard stationed in [Kalaman](locations/kalaman.md).

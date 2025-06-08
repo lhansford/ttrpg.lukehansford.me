@@ -11,7 +11,7 @@ tags:
 ---
 # Wyhan
 
-![|0x300](Screenshot%202024-04-07%20at%2011.50.47.png)
+![|0x300](_files/Screenshot%202024-04-07%20at%2011.50.47.png)
 
 - Run's Wyhan's Apothecary.
 - 

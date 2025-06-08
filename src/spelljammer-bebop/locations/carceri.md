@@ -20,19 +20,19 @@ https://forgottenrealms.fandom.com/wiki/Carceri
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [carceri](locations/carceri.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [carceri](locations/carceri.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [carceri](locations/carceri.md))
 ```

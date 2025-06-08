@@ -12,4 +12,4 @@ tags:
 # Big Mac
 
 - Gunner and weapons expert on our ship.
-- Was wanted for crimes in [Port Drogheda](port-drogheda.md) (something about blowing a guys finger off). [Swan](swan.md) paid off the bounty.
+- Was wanted for crimes in [Port Drogheda](locations/port-drogheda.md) (something about blowing a guys finger off). [Swan](pcs/swan.md) paid off the bounty.

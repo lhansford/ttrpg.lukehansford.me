@@ -1,7 +1,7 @@
 ---
 aliases:
   - Zydhash
-location: '[[new-evermeet|New Evermeet]]'
+location: '[New Evermeet](locations/new-evermeet.md)'
 origin: null
 layout: layout.webc
 title: Zydhash Pinevolley
@@ -12,4 +12,4 @@ tags:
 ---
 # Zydhash Pinevolley
 
-![](Pasted%20image%2020240623115034.png)
+![Pasted image 20240623115034](_files/Pasted%20image%2020240623115034.png)

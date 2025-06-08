@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[zalani|Zalani]]'
+  - '[Zalani](locations/zalani.md)'
 layout: layout.webc
 title: Lycanvine
 campaignSlug: spelljammer-bebop
@@ -17,19 +17,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [lycanvine](locations/lycanvine.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [lycanvine](locations/lycanvine.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [lycanvine](locations/lycanvine.md))
 ```

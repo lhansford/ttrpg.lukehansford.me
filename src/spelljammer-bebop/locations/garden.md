@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[realmspace|Realmspace]]'
+  - '[Realmspace](locations/realmspace.md)'
 layout: layout.webc
 title: Garden
 campaignSlug: spelljammer-bebop
@@ -17,19 +17,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [garden](locations/garden.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [garden](locations/garden.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [garden](locations/garden.md))
 ```

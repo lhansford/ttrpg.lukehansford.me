@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[cania|Cania]]'
+location: '[Cania](locations/cania.md)'
 origin: null
 layout: layout.webc
 title: Mephistopheles
@@ -12,4 +12,4 @@ tags:
 # Mephistopheles
 
 - Archdevil.
-- Sire of [Raphael](raphael.md)
+- Sire of [Raphael](npcs/raphael.md)

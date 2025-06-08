@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[locations/mulsantir|Mulsantir]]'
+  - '[Mulsantir](locations/mulsantir.md)'
 date: 2024-01-28T00:00:00.000Z
 layout: layout.webc
 title: Session 13 (2024-01-28)

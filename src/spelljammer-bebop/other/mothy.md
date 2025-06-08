@@ -11,6 +11,6 @@ tags:
 
 - A Star Moth we captured from the Armada.
 - Bastion slots
-	- Training Area ([Kez](kez-bardaux.md))
-	- Trophy Room ([Rudy](refuge-unit-d3.md))
-	- Workshop ([Kez](kez-bardaux.md))
+	- Training Area ([Kez](pcs/kez-bardaux.md))
+	- Trophy Room ([Rudy](pcs/refuge-unit-d3.md))
+	- Workshop ([Kez](pcs/kez-bardaux.md))

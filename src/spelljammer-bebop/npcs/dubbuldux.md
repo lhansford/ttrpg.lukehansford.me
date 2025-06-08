@@ -1,5 +1,5 @@
 ---
-location: '[[locations/coliar|Coliar]]'
+location: '[Coliar](locations/coliar.md)'
 aliases:
   - Double Dux
   - Dubbuldux
@@ -14,5 +14,5 @@ tags:
 # Dubbuldux
 
 - Wizard. Summoner of [Striyxits](npcs/striyxits.md).
-- Last we heard he was in [[locations/coliar]].
-- He was working on a spell, Dream of the Blue Veil, that could potentially transport a group to Eberron (learnt from his friend [[npcs/gazpacho]] in [[session-notes/session-10]]).
+- Last we heard he was in [coliar](locations/coliar.md).
+- He was working on a spell, Dream of the Blue Veil, that could potentially transport a group to Eberron (learnt from his friend [gazpacho](npcs/gazpacho.md) in [session-10](session-notes/session-10.md)).

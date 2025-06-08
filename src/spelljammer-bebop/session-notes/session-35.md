@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[new-evermeet|New Evermeet]]'
+  - '[New Evermeet](locations/new-evermeet.md)'
 date: 2024-07-07T00:00:00.000Z
 layout: layout.webc
 title: Session 35 (2024-07-07)

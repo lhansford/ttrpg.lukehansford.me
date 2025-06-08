@@ -10,5 +10,5 @@ tags:
 ---
 # Session 38 (2024-08-04)
 
-- We continued with the fight in [Vocath](vocath.md)'s arena.
-	- During the fight [Raven](raven.md) told Nidalee we should grab drinks later.
+- We continued with the fight in [Vocath](npcs/vocath.md)'s arena.
+	- During the fight [Raven](pcs/raven.md) told Nidalee we should grab drinks later.

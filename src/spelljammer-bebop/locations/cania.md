@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[the-nine-hells|The Nine Hells]]'
+  - '[The Nine Hells](locations/the-nine-hells.md)'
 layout: layout.webc
 title: Cania
 campaignSlug: spelljammer-bebop
@@ -13,25 +13,25 @@ tags:
 
 - Plane of the Nine Hells.
 - Unbearably cold.
-- Realm of Mephistopheles ([Raphael](raphael.md)'s dad).
+- Realm of Mephistopheles ([Raphael](npcs/raphael.md)'s dad).
 
 ## Contains
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [cania](locations/cania.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [cania](locations/cania.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [cania](locations/cania.md))
 ```

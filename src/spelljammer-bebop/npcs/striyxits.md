@@ -12,5 +12,5 @@ tags:
 ---
 # Striyxits
 
--  Spectator that we were hired to evict from a hotel, but we made friends with instead. We freed him from a summoning contract from [[dubbuldux]].
-- We got him a job working at the [[locations/the-laughing-beholder]].
+-  Spectator that we were hired to evict from a hotel, but we made friends with instead. We freed him from a summoning contract from [dubbuldux](npcs/dubbuldux.md).
+- We got him a job working at the [the-laughing-beholder](locations/the-laughing-beholder.md).

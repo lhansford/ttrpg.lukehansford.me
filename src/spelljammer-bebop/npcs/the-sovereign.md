@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[lycanvine|Lycanvine]]'
+location: '[Lycanvine](locations/lycanvine.md)'
 origin: null
 layout: layout.webc
 title: The Sovereign
@@ -11,5 +11,5 @@ tags:
 ---
 # The Sovereign
 
-- Fungus hivemind we encountered in [Lycanvine](lycanvine.md).
-- Revived [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) and integrated him into their hive mind.
+- Fungus hivemind we encountered in [Lycanvine](locations/lycanvine.md).
+- Revived [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) and integrated him into their hive mind.

@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[ethereal-plane|Ethereal Plane]]'
+  - '[Ethereal Plane](locations/ethereal-plane.md)'
 layout: layout.webc
 title: The Radiant Citadel
 campaignSlug: spelljammer-bebop
@@ -17,19 +17,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [the-radiant-citadel](locations/the-radiant-citadel.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [the-radiant-citadel](locations/the-radiant-citadel.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [the-radiant-citadel](locations/the-radiant-citadel.md))
 ```

@@ -11,4 +11,4 @@ tags:
   - npcs
 ---
 # Grazzit
-- A devil who knows how to reach [[locations/eberron]] maybe.
+- A devil who knows how to reach [eberron](locations/eberron.md) maybe.

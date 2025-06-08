@@ -12,6 +12,6 @@ tags:
 # Raphael
 
 - Devil.
-- Has [Ravarel](ravarel-deshent.md)'s soul coin.
-- Sired by [Mephistopheles](mephistopheles.md).
+- Has [Ravarel](pcs/ravarel-deshent.md)'s soul coin.
+- Sired by [Mephistopheles](npcs/mephistopheles.md).
 -  His true name is "the sounds of three acorns being crunched between teeth".

@@ -1,6 +1,6 @@
 ---
 player: Thomas
-origin: '[[locations/waterdeep|Waterdeep]]'
+origin: '[Waterdeep](locations/waterdeep.md)'
 aliases:
   - Ravarel
   - Ravarel Deshent

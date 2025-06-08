@@ -1,7 +1,7 @@
 ---
 aliases:
   - Akarran
-location: '[[the-radiant-citadel|The Radiant Citadel]]'
+location: '[The Radiant Citadel](locations/the-radiant-citadel.md)'
 origin: null
 layout: layout.webc
 title: Akarran Sanger

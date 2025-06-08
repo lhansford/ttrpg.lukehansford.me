@@ -2,7 +2,7 @@
 aliases:
   - Stardock
 in:
-  - '[[locations/the-tears-of-selune|The Tears of Selune]]'
+  - '[The Tears of Selune](locations/the-tears-of-selune.md)'
 layout: layout.webc
 title: Stardock
 campaignSlug: spelljammer-bebop
@@ -18,5 +18,5 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [stardock](locations/stardock.md))
 ```

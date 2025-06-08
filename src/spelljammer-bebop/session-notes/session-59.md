@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[containment-facility-53|Containment Facility 53]]'
+  - '[Containment Facility 53](locations/containment-facility-53.md)'
 date: 2025-01-12T00:00:00.000Z
 layout: layout.webc
 title: Session 59 (2025-01-12)
@@ -12,19 +12,19 @@ tags:
 # Session 59 (2025-01-12)
 
 - We continued discussing the heist.
-- [Raven](raven.md) asked more about the scrub room.
-	- It wasn't clear if it would catch our magic items. [Xedalli](princess-xedalli.md) suggested that we use the portable hole.
-- [Swan](swan.md) asked if anyone had tried to break out before
+- [Raven](pcs/raven.md) asked more about the scrub room.
+	- It wasn't clear if it would catch our magic items. [Xedalli](npcs/princess-xedalli.md) suggested that we use the portable hole.
+- [Swan](pcs/swan.md) asked if anyone had tried to break out before
 	- A demon named "Eru" escaped. They believe they had help from something more powerful in the abyss.
-- There was some discussion about maybe trying to trick [Dubbuldux](dubbuldux.md) or converse with the Red Wizards.
-- [Swan](swan.md) suggest we pretend to be there to inspect the prison. We have four uniforms we could use.
+- There was some discussion about maybe trying to trick [Dubbuldux](npcs/dubbuldux.md) or converse with the Red Wizards.
+- [Swan](pcs/swan.md) suggest we pretend to be there to inspect the prison. We have four uniforms we could use.
 	- Rudy would be painted in armada colours.
-	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) could wildshape.
+	- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) could wildshape.
 - We all went off and did bastion stuff
-	- [Swan](swan.md) did a theater thing
-	- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) make 2 revivify scrolls and did some fishing.
-	- [Rudy](refuge-unit-d3.md) did ???
-	- [Ravarel](ravarel-deshent.md) studied the detention center and the Vaskir.
+	- [Swan](pcs/swan.md) did a theater thing
+	- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) make 2 revivify scrolls and did some fishing.
+	- [Rudy](pcs/refuge-unit-d3.md) did ???
+	- [Ravarel](pcs/ravarel-deshent.md) studied the detention center and the Vaskir.
 		- Any secret entrances/exits?
 			- Not so secret, but there is a teleportation circle at the facility.
 		- Is there a particular time when guards are less active?
@@ -34,18 +34,18 @@ tags:
 			- Glyphs of warding, with some tricky ones heading up to the containment room.
 			- One to watch out for is one that will cast Suggestion without you knowing it.
 			- Nystal's Magic Aura is likely in play, so Detect Magic won't work.
-		- What's the Vaskir's relationship with [M'weru](mweru.md)?
+		- What's the Vaskir's relationship with [M'weru](npcs/mweru.md)?
 			- They know each other.
 		- What school of magic?
 			- Conjuration, specifically demon-binding.
 		- What's the highest level spell they an cast?
 			- 8th
-	- [Raven](raven.md) made some alchemists fire and studied about the comms methods of the prison.
+	- [Raven](pcs/raven.md) made some alchemists fire and studied about the comms methods of the prison.
 		- How does the prison communicate with the rest of the Armada?
-			- There is a sending station in the super's office that communicates with [The Citadel](the-citadel.md) and some shops.
+			- There is a sending station in the super's office that communicates with [The Citadel](locations/the-citadel.md) and some shops.
 			- Also likely some wizards have capabilities.
 			- There's a device in the warden office capable of casting skywriting.
-				- We also have skywriting on [Mothy](mothy.md).
+				- We also have skywriting on [Mothy](other/mothy.md).
 		- Are there spelljammers at or nearby the prison?
 			- Typically no.
 		- Arcanaloth resistances?
@@ -54,39 +54,39 @@ tags:
 			- Good magic users. Innate spell-casting, can't necessarily counter-spell.
 			- Up to 7/8 level spells typically.
 - We all had parts
-	- [Rudy](refuge-unit-d3.md) would be Record Unit D3
-	- [Raven](raven.md) would be Kylana
-	- [Swan](swan.md) would be "High Admiral"
-	- [Kez](kez-bardaux.md) would be Edgin
-	- [Ravarel](ravarel-deshent.md) would be Bacharus Snippington.
+	- [Rudy](pcs/refuge-unit-d3.md) would be Record Unit D3
+	- [Raven](pcs/raven.md) would be Kylana
+	- [Swan](pcs/swan.md) would be "High Admiral"
+	- [Kez](pcs/kez-bardaux.md) would be Edgin
+	- [Ravarel](pcs/ravarel-deshent.md) would be Bacharus Snippington.
 	- We would split into two groups.
 		- One group to the prisoner containment unit to get the Stranger and Prince Andy.
 			- Rudy, Kez, Swan.
 		- The second group would go to the security station and cause a distraction.
 			- Ravarel, Slathass, Raven.
-- [Raven](raven.md) cast Commune (this was kept to herself though).
+- [Raven](pcs/raven.md) cast Commune (this was kept to herself though).
 	- Will the Stranger come willingly?
 		- Yes
 	- Can the Stranger be trusted?
 		- Unclear
 	- Are there any other prisoners that I should free?
 		- No
-- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) used his fish hook to get a fish that in a meal that increases our max HP by 5 and adv. for saving throws against Fear.
-- On the trip [Swan](swan.md) came to speak to [Raven](raven.md) privately.
-	- [Swan](swan.md) said she'd been thinking a lot about the Feywild since [Port Drogheda](port-drogheda.md).
-	- During the conversation Swin separated from [Swan](swan.md) and started talking independently, saying they need to return to the Feywild.
-	- [Swan](swan.md) told [Raven](raven.md) how she'd previously not been a changeling, and had been going from plane to plane. She'd gotten into trouble with Baba Yaga and was forced to become a hag in service of [Tasha](tasha.md). She spied on Tasha and discovered her name, but was caught and punished by being transformed into a changeling and banished from the Feywild.
-	- Swin ended the conversation saying "we must go to [Sigil](sigil.md)".
-- [Rudy](refuge-unit-d3.md) and [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) spoke.
+- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) used his fish hook to get a fish that in a meal that increases our max HP by 5 and adv. for saving throws against Fear.
+- On the trip [Swan](pcs/swan.md) came to speak to [Raven](pcs/raven.md) privately.
+	- [Swan](pcs/swan.md) said she'd been thinking a lot about the Feywild since [Port Drogheda](locations/port-drogheda.md).
+	- During the conversation Swin separated from [Swan](pcs/swan.md) and started talking independently, saying they need to return to the Feywild.
+	- [Swan](pcs/swan.md) told [Raven](pcs/raven.md) how she'd previously not been a changeling, and had been going from plane to plane. She'd gotten into trouble with Baba Yaga and was forced to become a hag in service of [Tasha](npcs/tasha.md). She spied on Tasha and discovered her name, but was caught and punished by being transformed into a changeling and banished from the Feywild.
+	- Swin ended the conversation saying "we must go to [Sigil](locations/sigil.md)".
+- [Rudy](pcs/refuge-unit-d3.md) and [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) spoke.
 	- Rudy gifted him a Sentinel Shield so he wouldn't die so easily.
 	- Rudy has inscribed in it "It's a good day to be alive".
-- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) gave Raven and Ravarel revivify scrolls.
-- [Raven](raven.md) spoke to the whole group and [Xedalli](princess-xedalli.md)
-	- She apologised for running off in the caves at [Lycanvine](lycanvine.md).
+- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) gave Raven and Ravarel revivify scrolls.
+- [Raven](pcs/raven.md) spoke to the whole group and [Xedalli](npcs/princess-xedalli.md)
+	- She apologised for running off in the caves at [Lycanvine](locations/lycanvine.md).
 	- She told them that she had previously been a fey spirit, and at some point had been summoned by a wizard to be a familiar. The wizard was evil and treated her poorly, which was why she had such reactions to seeing familiars.
-	- Speaking about it [[Raven]] recalled the face of the wizard for the first time. Weird lime green skin, a parting hairline, a terrible little soul patch. Fancy red and pink cloak, likely a gnomish person. [Raven](raven.md) in the moment realised that it was [Dubbuldux](dubbuldux.md).
-- [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) was asked by [Xedalli](princess-xedalli.md) if the Trout Lord was benevolent. He said yes.
+	- Speaking about it [[Raven](pcs/raven.md) in the moment realised that it was [Dubbuldux](npcs/dubbuldux.md).
+- [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) was asked by [Xedalli](npcs/princess-xedalli.md) if the Trout Lord was benevolent. He said yes.
 	- Sounded like Raven to a Kua-ta cultural practice, where if they don't have a god they make one up, literally.
-	- [Ravarel](ravarel-deshent.md) recognised it as maybe a god from Chandros, a tribe of Kua-ta.
+	- [Ravarel](pcs/ravarel-deshent.md) recognised it as maybe a god from Chandros, a tribe of Kua-ta.
 - We tried to rehearse the play but it bombed and we didn't get the rewards.
 - As we approached the station they cast skywrite and sent the message in elvish "State your business and the code".

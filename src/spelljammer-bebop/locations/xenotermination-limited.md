@@ -1,7 +1,7 @@
 ---
 aliases: null
 in:
-  - '[[locations/the-rock-of-bral|Bral]]'
+  - '[Bral](locations/the-rock-of-bral.md)'
 layout: layout.webc
 title: Xenotermination Limited
 campaignSlug: spelljammer-bebop
@@ -17,19 +17,19 @@ Run by [Lt. Stan](npcs/lt-stan.md).
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [xenotermination-limited](locations/xenotermination-limited.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [xenotermination-limited](locations/xenotermination-limited.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [xenotermination-limited](locations/xenotermination-limited.md))
 ```

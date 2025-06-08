@@ -2,7 +2,7 @@
 aliases:
   - Haven
 in:
-  - '[[locations/realmspace|Realmspace]]'
+  - '[Realmspace](locations/realmspace.md)'
 layout: layout.webc
 title: Haven
 campaignSlug: spelljammer-bebop
@@ -18,5 +18,5 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [haven](locations/haven.md))
 ```

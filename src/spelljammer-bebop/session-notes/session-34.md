@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[new-evermeet|New Evermeet]]'
+  - '[New Evermeet](locations/new-evermeet.md)'
 date: 2024-06-30T00:00:00.000Z
 layout: layout.webc
 title: Session 34 (2024-06-30)
@@ -11,10 +11,10 @@ tags:
 ---
 # Session 34 (2024-06-30)
 
-- [Rudy](refuge-unit-d3.md) and [Sssslattthhhhaaassss](sssslattthhhhaaassss.md) went fishing.
+- [Rudy](pcs/refuge-unit-d3.md) and [Sssslattthhhhaaassss](pcs/sssslattthhhhaaassss.md) went fishing.
 	- Rudy didn't have much success, but eventually they managed to land a tuna.
-- [Swan](swan.md) and [Raven](raven.md) had a chat.
-	- [Swan](swan.md) mentioned she might have a crush on [Kez](kez-bardaux.md).
+- [Swan](pcs/swan.md) and [Raven](pcs/raven.md) had a chat.
+	- [Swan](pcs/swan.md) mentioned she might have a crush on [Kez](pcs/kez-bardaux.md).
 - We sold the flute, 1500gp each.
 - We headed to the portal tree.
 	- As we approached an elf hidden in the trees whispered to us. It was Gantar

@@ -11,6 +11,6 @@ tags:
 ---
 # Topolah
 
-![](023-10-005.topolah-and-her-birds.webp)
+![023-10-005.topolah-and-her-birds](_files/023-10-005.topolah-and-her-birds.webp)
 
-- [Grimzen Gargenhale](grimzin-gargenhale.md)'s ex-girlfriend.
+- [Grimzen Gargenhale](npcs/grimzin-gargenhale.md)'s ex-girlfriend.

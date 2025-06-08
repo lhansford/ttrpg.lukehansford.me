@@ -3,7 +3,7 @@ aliases:
   - Free City of Greyhawk
   - Greyhawk
 in:
-  - '[[oerth|Oerth]]'
+  - '[Oerth](locations/oerth.md)'
 layout: layout.webc
 title: Free City of Greyhawk
 campaignSlug: spelljammer-bebop
@@ -19,19 +19,19 @@ tags:
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
 FROM "locations"
-WHERE icontains(in, [[]])
+WHERE icontains(in, [greyhawk](locations/greyhawk.md))
 ```
 
 ## People from here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(origin, [[]])
+WHERE icontains(origin, [greyhawk](locations/greyhawk.md))
 ```
 
 ## People located here
 
 ```dataview
 TABLE WITHOUT ID join(file.aliases) as "Name(s)", file.link as "Link"
-WHERE icontains(location, [[]])
+WHERE icontains(location, [greyhawk](locations/greyhawk.md))
 ```

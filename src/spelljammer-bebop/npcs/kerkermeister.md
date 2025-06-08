@@ -1,6 +1,6 @@
 ---
 aliases: null
-location: '[[carceri|Carceri]]'
+location: '[Carceri](locations/carceri.md)'
 origin: null
 layout: layout.webc
 title: Kerkermeister
@@ -11,4 +11,4 @@ tags:
 ---
 # Kerkermeister
 
-- Demonic jailkeeper in [Carceri](carceri.md).
+- Demonic jailkeeper in [Carceri](locations/carceri.md).

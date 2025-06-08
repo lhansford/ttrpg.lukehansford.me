@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[new-evermeet|New Evermeet]]'
+  - '[New Evermeet](locations/new-evermeet.md)'
 date: 2024-07-28T00:00:00.000Z
 layout: layout.webc
 title: Session 37 (2024-07-28)
@@ -12,7 +12,7 @@ tags:
 # Session 37 (2024-07-28)
 
 - We had breakfast before heading to Vocath's Blood Sport Arena LeagUe Championships.
-	- [Xedalli](princess-xedalli.md) accompanied us to "wine and dine" the leaders.
+	- [Xedalli](npcs/princess-xedalli.md) accompanied us to "wine and dine" the leaders.
 - We went up the Infinite Staircase
 	- We met a little bird-orb-eye guy thing who was acting as the doorman.
 		- Their name was Goonballoon

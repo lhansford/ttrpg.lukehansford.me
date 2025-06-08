@@ -1,6 +1,6 @@
 ---
 locations:
-  - '[[carceri|Carceri]]'
+  - '[Carceri](locations/carceri.md)'
 date: 2025-05-11T00:00:00.000Z
 layout: layout.webc
 title: Session 74 (2025-05-11)
@@ -11,5 +11,5 @@ tags:
 ---
 # Session 74 (2025-05-11)
 
-- As we entered [Carceri](carceri.md) we were attacked by a bunch of demons.
+- As we entered [Carceri](locations/carceri.md) we were attacked by a bunch of demons.
 	- We fought for a while, and after some time a massive demon was summoned from a crater.
