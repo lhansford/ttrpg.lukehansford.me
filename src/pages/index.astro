@@ -1,0 +1,19 @@
+---
+import { CAMPAIGNS } from "../constants";
+import Layout from "../layouts/Layout.astro";
+
+import "../styles/index.css";
+---
+
+<Layout title="Luke's TTRPG Campaigns">
+  <h1>Campaigns</h1>
+  <ul>
+    {
+      CAMPAIGNS.map((c) => (
+        <li>
+          <a href={`/${c.id}/`}>{c.label}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

@@ -5,15 +5,18 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "eleventy --serve --incremental --formats=md,html,webc",
-    "sync": "./scripts/syncNotes.sh && node ./scripts/convertNotes.mjs && ./scripts/pushSyncedNotes.sh"
+    "dev": "astro dev",
+    "build": "astro build",
+    "sync": "node --experimental-strip-types scripts/syncNotes.ts",
+    "transform": "node --experimental-strip-types scripts/transformNotes.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "astro": "^5.13.2"
+  },
   "devDependencies": {
-    "@11ty/eleventy": "3.0.0-alpha.4",
-    "@11ty/eleventy-plugin-webc": "^0.11.2",
-    "markdown-it-replace-link": "^1.2.1"
+    "typescript": "^5.9.2"
   }
 }
