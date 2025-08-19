@@ -1,31 +1,33 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection } from 'astro:content';
 
-import { CAMPAIGNS, CONTENT_TYPES } from "../../../constants";
-import Layout from "../../../layouts/Layout.astro";
+import { CAMPAIGNS, CONTENT_TYPES } from '../../../constants.ts';
+import Layout from '../../../layouts/Layout.astro';
 
 export function getStaticPaths() {
   return CAMPAIGNS.map((campaign) =>
     CONTENT_TYPES.map((contentType) => ({
       params: { campaignId: campaign.id, contentType },
-    }))
+    })),
   ).flat();
 }
 
 const { campaignId, contentType } = Astro.params;
 
-const entries = await getCollection(contentType, (d) =>
-  d.id.startsWith(campaignId)
-);
+const entries = await getCollection(contentType, (d) => d.id.startsWith(campaignId));
 const campaign = CAMPAIGNS.find((c) => c.id === campaignId)!;
 ---
 
-<Layout title={`${campaign.label} | ${contentType}`} campaignSlug={campaignId} campaignName={campaign.label}>
+<Layout
+  title={`${campaign.label} | ${contentType}`}
+  campaignSlug={campaignId}
+  campaignName={campaign.label}
+>
   <ul>
     {
       entries.map((entry) => (
         <li>
-          <a href={"/" + entry.id}>{entry.data.name}</a>
+          <a href={'/' + entry.id}>{entry.data.name}</a>
         </li>
       ))
     }

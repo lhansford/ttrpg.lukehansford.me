@@ -1,15 +1,14 @@
-import { rm, cp, stat } from "fs/promises";
-import path from "path";
-import { CAMPAIGNS } from "../src/constants";
-import { styleText } from "util";
+import { rm, cp, stat } from 'fs/promises';
+import path from 'path';
+import { styleText } from 'util';
 
-const IGNORED_DIRS = [".obisidian", "_templates"];
+import { CAMPAIGNS } from '../src/constants.ts';
+
+const IGNORED_DIRS = ['.obisidian', '_templates'];
 
 async function syncNotes(campaignSlug: string, srcDir: string) {
   console.log(`Syncing notes for campaign: ${campaignSlug}`);
-  const destDirExists = await stat(`./src/pages/${campaignSlug}`).catch(
-    () => false
-  );
+  const destDirExists = await stat(`./src/pages/${campaignSlug}`).catch(() => false);
   const srcDirExists = await stat(srcDir).catch(() => false);
   if (!srcDirExists) {
     console.error(`Source directory does not exist: ${srcDir}`);
@@ -37,12 +36,12 @@ async function syncNotes(campaignSlug: string, srcDir: string) {
     force: true,
   });
 
-  console.log(styleText('green',`Sync of ${campaignSlug} complete.`));
+  console.log(styleText('green', `Sync of ${campaignSlug} complete.`));
 }
 
-console.log("Clearing static files...");
-await rm("./public/_files", { recursive: true, force: true });
+console.log('Clearing static files...');
+await rm('./public/_files', { recursive: true, force: true });
 
 for (const campaign of CAMPAIGNS) {
-  await syncNotes(campaign.id, path.join(process.env.HOME, campaign.srcDir));
+  await syncNotes(campaign.id, path.join(process.env.HOME!, campaign.srcDir));
 }

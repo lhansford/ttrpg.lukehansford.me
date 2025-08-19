@@ -71,12 +71,14 @@ a:not([class]) {
 :root {
   --c-light-shade: #f7f4f5;
   --c-light-accent: #777984;
-  --c-brand: #C79877;
+  --c-brand: #c79877;
   --c-dark-accent: #ae5741;
   --c-dark-shade: #423e44;
 
-  --font-body: "Playfair Display", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  --font-display: "Grenze Gotisch", serif;
+  --font-body:
+    'Playfair Display', Palatino, 'Palatino Linotype', 'Palatino LT STD', 'Book Antiqua', Georgia,
+    serif;
+  --font-display: 'Grenze Gotisch', serif;
 }
 
 html {
@@ -88,18 +90,24 @@ html {
   --s: 128px; /* control the size */
   --c1: var(--c-dark-accent);
   --c2: var(--c-dark-shade);
+  --gradient: radial-gradient(
+    #0000 60%,
+    var(--c1) 61% 63%,
+    #0000 64% 77%,
+    var(--c1) 78% 80%,
+    #0000 81%
+  );
+  --cone: #0000 75%, var(--c2) 0;
 
-  --_g:radial-gradient(#0000 60%,var(--c1) 61% 63%,#0000 64% 77%,var(--c1) 78% 80%,#0000 81%);
-  --_c:,#0000 75%,var(--c2) 0;
   background:
-    conic-gradient(at 12% 20% var(--_c)) calc(var(--s)* .44) calc(.9*var(--s)),
-    conic-gradient(at 12% 20% var(--_c)) calc(var(--s)*-.06) calc(.4*var(--s)),
-    conic-gradient(at 20% 12% var(--_c)) calc(.9*var(--s)) calc(var(--s)* .44),
-    conic-gradient(at 20% 12% var(--_c)) calc(.4*var(--s)) calc(var(--s)*-.06),
-    var(--_g),var(--_g) calc(var(--s)/2) calc(var(--s)/2) var(--c2);
+    conic-gradient(at 12% 20% var(--cone)) calc(var(--s) * 0.44) calc(0.9 * var(--s)),
+    conic-gradient(at 12% 20% var(--cone)) calc(var(--s) * -0.06) calc(0.4 * var(--s)),
+    conic-gradient(at 20% 12% var(--cone)) calc(0.9 * var(--s)) calc(var(--s) * 0.44),
+    conic-gradient(at 20% 12% var(--cone)) calc(0.4 * var(--s)) calc(var(--s) * -0.06),
+    var(--gradient),
+    var(--gradient) calc(var(--s) / 2) calc(var(--s) / 2) var(--c2);
   background-size: var(--s) var(--s);
 }
-
 
 body {
   margin: 0 auto;
@@ -107,7 +115,9 @@ body {
   background-color: var(--c-light-shade);
   color: var(--c-dark-shade);
   max-width: 1400px;
-  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  box-shadow:
+    0 1px 3px 0 rgb(0 0 0 / 0.1),
+    0 1px 2px -1px rgb(0 0 0 / 0.1);
 }
 
 main {
@@ -132,7 +142,8 @@ h2 {
   font-size: 2rem;
 }
 
-p, details {
+p,
+details {
   margin-block-end: 1rem;
 }
 

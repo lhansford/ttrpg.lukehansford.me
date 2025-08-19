@@ -1,6 +1,6 @@
 ---
-import { CAMPAIGNS } from "../../constants";
-import Layout from "../../layouts/Layout.astro";
+import { CAMPAIGNS } from '../../constants.ts';
+import Layout from '../../layouts/Layout.astro';
 
 export function getStaticPaths() {
   return CAMPAIGNS.map((campaign) => ({
@@ -12,10 +12,6 @@ const { campaignId } = Astro.params;
 const campaign = CAMPAIGNS.find((c) => c.id === campaignId)!;
 ---
 
-<Layout
-  title={campaign.label}
-  campaignSlug={campaignId}
-  campaignName={campaign.label}
->
+<Layout title={campaign.label} campaignSlug={campaignId} campaignName={campaign.label}>
   Test
 </Layout>

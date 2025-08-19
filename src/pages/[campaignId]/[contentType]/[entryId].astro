@@ -1,15 +1,15 @@
 ---
-import { getCollection, render, getEntry } from "astro:content";
+import { getCollection, render, getEntry } from 'astro:content';
 
-import { CAMPAIGNS, CONTENT_TYPES } from "../../../constants";
-import Layout from "../../../layouts/Layout.astro";
+import { CAMPAIGNS, CONTENT_TYPES } from '../../../constants.ts';
+import Layout from '../../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const paths = [];
   for (const contentType of CONTENT_TYPES) {
     const entries = await getCollection(contentType);
     for (const entry of entries) {
-      const [campaignId, _, entryId] = entry.id.split("/");
+      const [campaignId, , entryId] = entry.id.split('/');
       paths.push({
         params: { campaignId, contentType, entryId },
       });
@@ -19,12 +19,9 @@ export async function getStaticPaths() {
 }
 
 const { campaignId, contentType, entryId } = Astro.params;
-const entry = await getEntry(
-  contentType,
-  `${campaignId}/${contentType}/${entryId}`
-);
+const entry = await getEntry(contentType, `${campaignId}/${contentType}/${entryId}`);
 const { Content } = await render(entry);
-const campaign = CAMPAIGNS.find((c) => c.id === campaignId);
+const campaign = CAMPAIGNS.find((c) => c.id === campaignId)!;
 ---
 
 <Layout
