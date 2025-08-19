@@ -74,7 +74,7 @@ That the Dragonmark houses can be changed from within.
 
 ### Outfit
 
-- She wears a red woollen trench coat with black trim and a black image of a Hippogriff, a symbol of [House Vadalis](organisations/house-vadalis.md), on the sleeve. She has black pants with yellow stripes up the outer legs, and blue and black combat boots.
+- She wears a red woollen trench coat with black trim and a black image of a Hippogriff, a symbol of [House Vadalis](organisations/house-vadalis.md), on the sleeve. She has black pants with yellow stripes up the outer legs, and blue and black combat boots. 
 
 ### Equipment
 
@@ -100,7 +100,7 @@ That the Dragonmark houses can be changed from within.
 - To practice
 	- That's great that
 	- She just proper had it in for me.
-	- Have you heard about the bird that spreads the word.
+		- Have you heard about the bird that spreads the word.
 	- I'm going to see me Da' at work.
 	- Look at him.
 - Resources

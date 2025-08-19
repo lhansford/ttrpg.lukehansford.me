@@ -2,9 +2,7 @@ import { rm, cp, stat } from 'fs/promises';
 import path from 'path';
 import { styleText } from 'util';
 
-import { CAMPAIGNS } from '../src/constants.ts';
-
-const IGNORED_DIRS = ['.obisidian', '_templates'];
+import { CAMPAIGNS, CONTENT_TYPES } from '../src/constants.ts';
 
 async function syncNotes(campaignSlug: string, srcDir: string) {
   console.log(`Syncing notes for campaign: ${campaignSlug}`);
@@ -19,21 +17,13 @@ async function syncNotes(campaignSlug: string, srcDir: string) {
     await rm(`./src/data/${campaignSlug}`, { recursive: true, force: true });
   }
   console.log(`Copying new notes...`);
-  await cp(srcDir, `./src/data/${campaignSlug}`, { recursive: true });
-  for (const dir of IGNORED_DIRS) {
-    await rm(`./src/data/${campaignSlug}/${dir}`, {
-      recursive: true,
-      force: true,
-    });
+  for (const type of CONTENT_TYPES) {
+    await cp(`${srcDir}/${type}`, `./src/data/${campaignSlug}/${type}`, { recursive: true });
   }
 
   console.log(`Moving assets for ${campaignSlug}...`);
-  await cp(`./src/data/${campaignSlug}/_files`, `./public/_files`, {
+  await cp(`${srcDir}/_files`, `./public/_files`, {
     recursive: true,
-  });
-  await rm(`./src/data/${campaignSlug}/_files`, {
-    recursive: true,
-    force: true,
   });
 
   console.log(styleText('green', `Sync of ${campaignSlug} complete.`));
