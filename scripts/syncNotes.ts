@@ -18,7 +18,13 @@ async function syncNotes(campaignSlug: string, srcDir: string) {
   }
   console.log(`Copying new notes...`);
   for (const type of CONTENT_TYPES) {
-    await cp(`${srcDir}/${type}`, `./src/data/${campaignSlug}/${type}`, { recursive: true });
+    const srcContentDir = `${srcDir}/${type}`;
+    const srcContentDirExists = await stat(srcContentDir).catch(() => false);
+    if (!srcContentDirExists) {
+      console.error(`Campaign does not have required directories: ${srcContentDir}`);
+      return;
+    }
+    await cp(srcContentDir, `./src/data/${campaignSlug}/${type}`, { recursive: true });
   }
 
   console.log(`Moving assets for ${campaignSlug}...`);
